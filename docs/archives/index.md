@@ -1,5 +1,6 @@
 # Archives
 
+- [2025-10-10](https://derfex.github.io/profile/archives/2025-10-10)
 - [2025-10-09](https://derfex.github.io/profile/archives/2025-10-09)
 - [2025-10-08](https://derfex.github.io/profile/archives/2025-10-08) `// TODO: delete.`
 - [2025-10-05](https://derfex.github.io/profile/archives/2025-10-05) `// TODO: delete.`
