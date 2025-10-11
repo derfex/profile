@@ -1,22 +1,15 @@
 [
   {
-    "period": "2016-01 – 2017-04",
+    "period": "2017-04 – current time",
     "results": [
-      "Made a logo for student intellectual quizzes.",
-      "Implemented a website in a team to promote a student competition.",
-      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application."
+      "Created a delivery calculator for a logistics organization.",
+      "Made a logo for a student organization.",
+      "Implement a website for a student organization.",
+      "Write SMM texts for a student organization.",
+      "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
-    "role": "Junior fullstack developer",
+    "role": "Frontend engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Freelance"
-  },
-  {
-    "period": "2016-04 – 2016-08",
-    "results": [
-      "Built websites for eight clients as a team.",
-      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services."
-    ],
-    "role": "Junior fullstack developer",
-    "shortDescription": "A web studio"
   },
   {
     "period": "2016-10 – 2017-05",
@@ -29,15 +22,22 @@
     "shortDescription": "An information portal of the Trans-Baikal Territory"
   },
   {
-    "period": "2017-04 – current time",
+    "period": "2016-04 – 2016-08",
     "results": [
-      "Created a delivery calculator for a logistics organization.",
-      "Made a logo for a student organization.",
-      "Implement a website for a student organization.",
-      "Write SMM texts for a student organization.",
-      "Automated the calculation of piecework wages for a student organization in Google Sheets."
+      "Built websites for eight clients as a team.",
+      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services."
     ],
-    "role": "Frontend engineer first and foremost, in addition to designer and other roles",
+    "role": "Junior fullstack developer",
+    "shortDescription": "A web studio"
+  },
+  {
+    "period": "2016-01 – 2017-04",
+    "results": [
+      "Made a logo for student intellectual quizzes.",
+      "Implemented a website in a team to promote a student competition.",
+      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application."
+    ],
+    "role": "Junior fullstack developer",
     "shortDescription": "Freelance"
   }
 ]
