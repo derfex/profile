@@ -1,15 +1,37 @@
 [
   {
-    "period": "2017-04 – current time",
+    "period": "2024-04 – current time",
     "results": [
-      "Created a delivery calculator for a logistics organization.",
       "Made a logo for a student organization.",
       "Implement a website for a student organization.",
       "Write SMM texts for a student organization.",
       "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
     "role": "Frontend engineer first and foremost, in addition to designer and other roles",
-    "shortDescription": "Freelance"
+    "shortDescription": "Independent development",
+    "skills": [
+      "Angular",
+      "GoggleSheets",
+      "HTML",
+      "RxJS",
+      "SASS",
+      "SMM",
+      "SVG",
+      "TS"
+    ]
+  },
+  {
+    "period": "2018-04 – 2018-04",
+    "results": [
+      "Created a delivery calculator for a logistics organization."
+    ],
+    "role": "Web developer",
+    "shortDescription": "Independent development",
+    "skills": [
+      "CSS",
+      "HTML",
+      "JS"
+    ]
   },
   {
     "period": "2016-10 – 2017-05",
@@ -20,7 +42,15 @@
       "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
     ],
     "role": "Fullstack developer",
-    "shortDescription": "An information portal of the Trans-Baikal Territory"
+    "shortDescription": "An information portal of the Trans-Baikal Territory",
+    "skills": [
+      "CSS",
+      "HTML",
+      "JS",
+      "MySQL",
+      "PHP",
+      "SVG"
+    ]
   },
   {
     "period": "2016-04 – 2016-08",
@@ -31,7 +61,14 @@
       "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
     ],
     "role": "Junior fullstack developer",
-    "shortDescription": "A web studio"
+    "shortDescription": "A web studio",
+    "skills": [
+      "CSS",
+      "HTML",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
   },
   {
     "period": "2016-01 – 2017-04",
@@ -41,6 +78,14 @@
       "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application."
     ],
     "role": "Junior fullstack developer",
-    "shortDescription": "Freelance"
+    "shortDescription": "Independent development",
+    "skills": [
+      "CorelDRAW",
+      "CSS",
+      "HTML",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
   }
 ]
