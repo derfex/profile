@@ -34,6 +34,30 @@
     ]
   },
   {
+    "period": "2016-07 – 2019-07",
+    "results": [
+      "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
+      "Optimization, Virtual DOM, Pixel Perfect, cross-browser compatibility (including IE11).",
+      "Managed a team and reviewed colleagues' code."
+    ],
+    "role": "Software engineer",
+    "shortDescription": "SaaS, accounting and business management software provider",
+    "skills": [
+      "CrossBrowserCompatibility",
+      "CSS",
+      "Git",
+      "GitLab",
+      "HTML5",
+      "JS",
+      "ManagementOfEmployees",
+      "OOP",
+      "PixelPerfect",
+      "SPA",
+      "WaSaby",
+      "XML"
+    ]
+  },
+  {
     "period": "2015-10 – 2016-05",
     "results": [
       "Created a parser for news from competitors' websites.",
