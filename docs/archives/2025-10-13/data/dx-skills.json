@@ -4,6 +4,10 @@
     "title": "Angular"
   },
   {
+    "codename": "AngularMaterial",
+    "title": "Angular Material"
+  },
+  {
     "codename": "Bitbucket",
     "title": "Bitbucket"
   },
@@ -78,6 +82,10 @@
   {
     "codename": "SASS",
     "title": "SASS"
+  },
+  {
+    "codename": "Scrum",
+    "title": "Scrum"
   },
   {
     "codename": "SMM",
