@@ -36,14 +36,15 @@
       "Implemented processes for writing API documentation for the BE team.",
       "Conducted code reviews for colleagues."
     ],
-    "role": "Senior Software Engineer",
-    "shortDescription": "International IT company",
+    "role": "Senior software engineer",
+    "shortDescription": "An international IT company",
     "skillCodenames": [
       "Angular",
       "Git",
       "GitHub",
       "GitLab",
       "Highcharts",
+      "HTML5",
       "Jasmine",
       "Jira",
       "Karma",
@@ -64,7 +65,7 @@
       "As part of a collaborative group, created configs for tools used, such as ESLint."
     ],
     "role": "Frontend developer",
-    "shortDescription": "Russian cybersecurity company",
+    "shortDescription": "A Russian cybersecurity company",
     "skillCodenames": [
       "Angular",
       "Git",
@@ -81,7 +82,7 @@
       "Design and development of a group of web applications from scratch."
     ],
     "role": "Frontend developer",
-    "shortDescription": "Software development for an oil and gas company",
+    "shortDescription": "A software development for an oil and gas company",
     "skillCodenames": [
       "Angular",
       "AngularMaterial",
