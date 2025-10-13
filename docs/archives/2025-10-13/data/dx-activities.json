@@ -9,7 +9,7 @@
     ],
     "role": "Frontend engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Independent development",
-    "skills": [
+    "skillCodenames": [
       "Angular",
       "Git",
       "GitHub",
@@ -38,7 +38,7 @@
     ],
     "role": "Senior Software Engineer",
     "shortDescription": "International IT company",
-    "skills": [
+    "skillCodenames": [
       "Angular",
       "Git",
       "GitHub",
@@ -65,7 +65,7 @@
     ],
     "role": "Frontend developer",
     "shortDescription": "Russian cybersecurity company",
-    "skills": [
+    "skillCodenames": [
       "Angular",
       "Git",
       "GitLab",
@@ -82,7 +82,7 @@
     ],
     "role": "Frontend developer",
     "shortDescription": "Software development for an oil and gas company",
-    "skills": [
+    "skillCodenames": [
       "Angular",
       "AngularMaterial",
       "Confluence",
@@ -103,7 +103,7 @@
     ],
     "role": "Frontend developer",
     "shortDescription": "Contractor-producer of government websites",
-    "skills": [
+    "skillCodenames": [
       "Bitbucket",
       "Confluence",
       "Git",
@@ -121,7 +121,7 @@
     ],
     "role": "Web developer",
     "shortDescription": "Independent development",
-    "skills": [
+    "skillCodenames": [
       "CSS",
       "Git",
       "GitHub",
@@ -138,7 +138,7 @@
     ],
     "role": "Software engineer",
     "shortDescription": "SaaS, accounting and business management software provider",
-    "skills": [
+    "skillCodenames": [
       "CrossBrowserCompatibility",
       "CSS",
       "Git",
@@ -163,7 +163,7 @@
     ],
     "role": "Fullstack developer",
     "shortDescription": "An information portal of the Trans-Baikal Territory",
-    "skills": [
+    "skillCodenames": [
       "CSS",
       "HTML5",
       "JS",
@@ -182,7 +182,7 @@
     ],
     "role": "Junior fullstack developer",
     "shortDescription": "A web studio",
-    "skills": [
+    "skillCodenames": [
       "CSS",
       "HTML5",
       "JS",
@@ -199,7 +199,7 @@
     ],
     "role": "Junior fullstack developer",
     "shortDescription": "Independent development",
-    "skills": [
+    "skillCodenames": [
       "CorelDRAW",
       "CSS",
       "HTML5",
