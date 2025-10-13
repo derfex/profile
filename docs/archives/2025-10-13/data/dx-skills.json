@@ -48,8 +48,16 @@
     "title": "Goggle Sheets"
   },
   {
+    "codename": "Highcharts",
+    "title": "Highcharts"
+  },
+  {
     "codename": "HTML5",
     "title": "HTML5"
+  },
+  {
+    "codename": "Jasmine",
+    "title": "Jasmine"
   },
   {
     "codename": "Jira",
@@ -58,6 +66,10 @@
   {
     "codename": "JS",
     "title": "JavaScript"
+  },
+  {
+    "codename": "Karma",
+    "title": "Karma"
   },
   {
     "codename": "ManagementOfEmployees",
@@ -78,6 +90,14 @@
   {
     "codename": "PixelPerfect",
     "title": "Pixel Perfect"
+  },
+  {
+    "codename": "Prettier",
+    "title": "Prettier"
+  },
+  {
+    "codename": "PrimeNG",
+    "title": "PrimeNG"
   },
   {
     "codename": "RxJS",

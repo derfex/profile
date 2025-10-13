@@ -4,18 +4,53 @@
     "results": [
       "Made a logo for a student organization.",
       "Implement a website for a student organization.",
-      "Write SMM texts for a student organization.",
+      "Wrote SMM texts for a student organization.",
       "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
     "role": "Frontend engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Independent development",
     "skills": [
       "Angular",
+      "Git",
+      "GitHub",
       "GoggleSheets",
       "HTML5",
+      "Jasmine",
+      "Karma",
+      "PrimeNG",
       "RxJS",
       "SASS",
       "SMM",
+      "SVG",
+      "TS"
+    ]
+  },
+  {
+    "period": "2021-10 – 2025-09",
+    "results": [
+      "Served as Team Leader for the five-person FE team.",
+      "Refactored the frontend architecture.",
+      "Implemented strong typing.",
+      "Designed and developed new functionality, fixed bugs, and maintained it.",
+      "Implemented processes for writing and maintaining unit tests.",
+      "Implemented processes for writing API documentation for the BE team.",
+      "Conducted code reviews for colleagues."
+    ],
+    "role": "Senior Software Engineer",
+    "shortDescription": "International IT company",
+    "skills": [
+      "Angular",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Highcharts",
+      "Jasmine",
+      "Jira",
+      "Karma",
+      "ManagementOfEmployees",
+      "Prettier",
+      "RxJS",
+      "SASS",
       "SVG",
       "TS"
     ]
@@ -32,6 +67,7 @@
     "shortDescription": "Russian cybersecurity company",
     "skills": [
       "Angular",
+      "Git",
       "GitLab",
       "RxJS",
       "SASS",
@@ -50,6 +86,7 @@
       "Angular",
       "AngularMaterial",
       "Confluence",
+      "Git",
       "GitLab",
       "Jira",
       "RxJS",
@@ -69,6 +106,7 @@
     "skills": [
       "Bitbucket",
       "Confluence",
+      "Git",
       "HTML5",
       "Jira",
       "JS",
@@ -85,6 +123,8 @@
     "shortDescription": "Independent development",
     "skills": [
       "CSS",
+      "Git",
+      "GitHub",
       "HTML5",
       "JS"
     ]
