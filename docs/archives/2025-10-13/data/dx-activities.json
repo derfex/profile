@@ -21,6 +21,25 @@
     ]
   },
   {
+    "period": "2020-07 – 2021-10",
+    "results": [
+      "Designed and developed new functionality.",
+      "Refactored the frontend architecture.",
+      "Developed a private component library used by all projects within the organization.",
+      "As part of a collaborative group, created configs for tools used, such as ESLint."
+    ],
+    "role": "Frontend developer",
+    "shortDescription": "Russian cybersecurity company",
+    "skills": [
+      "Angular",
+      "GitLab",
+      "RxJS",
+      "SASS",
+      "ESLint",
+      "TS"
+    ]
+  },
+  {
     "period": "2019-12 – 2020-05",
     "results": [
       "Design and development of a group of web applications from scratch."

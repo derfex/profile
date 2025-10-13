@@ -28,6 +28,10 @@
     "title": "CSS"
   },
   {
+    "codename": "ESLint",
+    "title": "ESLint"
+  },
+  {
     "codename": "Git",
     "title": "Git"
   },
