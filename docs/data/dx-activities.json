@@ -11,11 +11,14 @@
     "shortDescription": "Independent development",
     "skillCodenames": [
       "Angular",
+      "ConventionalCommits",
+      "DS&A",
       "Git",
       "GitHub",
       "GoggleSheets",
       "HTML5",
       "Jasmine",
+      "JBWebStorm",
       "Karma",
       "PrimeNG",
       "RxJS",
@@ -40,12 +43,17 @@
     "shortDescription": "An international IT company",
     "skillCodenames": [
       "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Figma",
       "Git",
       "GitHub",
       "GitLab",
       "Highcharts",
       "HTML5",
       "Jasmine",
+      "JBWebStorm",
       "Jira",
       "Karma",
       "ManagementOfEmployees",
@@ -68,8 +76,10 @@
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
+      "Figma",
       "Git",
       "GitLab",
+      "JBWebStorm",
       "RxJS",
       "SASS",
       "ESLint",
@@ -89,6 +99,7 @@
       "Confluence",
       "Git",
       "GitLab",
+      "JBWebStorm",
       "Jira",
       "RxJS",
       "SASS",
@@ -109,6 +120,7 @@
       "Confluence",
       "Git",
       "HTML5",
+      "JBWebStorm",
       "Jira",
       "JS",
       "SASS",
@@ -127,6 +139,7 @@
       "Git",
       "GitHub",
       "HTML5",
+      "JBWebStorm",
       "JS"
     ]
   },
@@ -145,6 +158,7 @@
       "Git",
       "GitLab",
       "HTML5",
+      "JBWebStorm",
       "JS",
       "ManagementOfEmployees",
       "OOP",
@@ -194,9 +208,9 @@
   {
     "period": "2016-01 – 2017-04",
     "results": [
-      "Made a logo for student intellectual quizzes.",
+      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
       "Implemented a website in a team to promote a student competition.",
-      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application."
+      "Made a logo for student intellectual quizzes."
     ],
     "role": "Junior fullstack developer",
     "shortDescription": "Independent development",

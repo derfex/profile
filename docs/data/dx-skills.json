@@ -16,6 +16,10 @@
     "title": "Confluence"
   },
   {
+    "codename": "ConventionalCommits",
+    "title": "Conventional Commits"
+  },
+  {
     "codename": "CorelDRAW",
     "title": "CorelDRAW"
   },
@@ -24,12 +28,20 @@
     "title": "cross-browser compatibility"
   },
   {
+    "codename": "DS&A",
+    "title": "Data Structures & Algorithms"
+  },
+  {
     "codename": "CSS",
     "title": "CSS"
   },
   {
     "codename": "ESLint",
     "title": "ESLint"
+  },
+  {
+    "codename": "Figma",
+    "title": "Figma"
   },
   {
     "codename": "Git",
@@ -58,6 +70,10 @@
   {
     "codename": "Jasmine",
     "title": "Jasmine"
+  },
+  {
+    "codename": "JBWebStorm",
+    "title": "JetBrains WebStorm"
   },
   {
     "codename": "Jira",
