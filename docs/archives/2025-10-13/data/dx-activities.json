@@ -1,0 +1,212 @@
+[
+  {
+    "period": "2024-04 – current time",
+    "results": [
+      "Made a logo for a student organization.",
+      "Implement a website for a student organization.",
+      "Wrote SMM texts for a student organization.",
+      "Automated the calculation of piecework wages for a student organization in Google Sheets."
+    ],
+    "role": "Frontend engineer first and foremost, in addition to designer and other roles",
+    "shortDescription": "Independent development",
+    "skillCodenames": [
+      "Angular",
+      "Git",
+      "GitHub",
+      "GoggleSheets",
+      "HTML5",
+      "Jasmine",
+      "Karma",
+      "PrimeNG",
+      "RxJS",
+      "SASS",
+      "SMM",
+      "SVG",
+      "TS"
+    ]
+  },
+  {
+    "period": "2021-10 – 2025-09",
+    "results": [
+      "Served as Team Leader for the five-person FE team.",
+      "Refactored the frontend architecture.",
+      "Implemented strong typing.",
+      "Designed and developed new functionality, fixed bugs, and maintained it.",
+      "Implemented processes for writing and maintaining unit tests.",
+      "Implemented processes for writing API documentation for the BE team.",
+      "Conducted code reviews for colleagues."
+    ],
+    "role": "Senior software engineer",
+    "shortDescription": "An international IT company",
+    "skillCodenames": [
+      "Angular",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Highcharts",
+      "HTML5",
+      "Jasmine",
+      "Jira",
+      "Karma",
+      "ManagementOfEmployees",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SVG",
+      "TS"
+    ]
+  },
+  {
+    "period": "2020-07 – 2021-10",
+    "results": [
+      "Designed and developed new functionality.",
+      "Refactored the frontend architecture.",
+      "Developed a private component library used by all projects within the organization.",
+      "As part of a collaborative group, created configs for tools used, such as ESLint."
+    ],
+    "role": "Frontend developer",
+    "shortDescription": "A Russian cybersecurity company",
+    "skillCodenames": [
+      "Angular",
+      "Git",
+      "GitLab",
+      "RxJS",
+      "SASS",
+      "ESLint",
+      "TS"
+    ]
+  },
+  {
+    "period": "2019-12 – 2020-05",
+    "results": [
+      "Design and development of a group of web applications from scratch."
+    ],
+    "role": "Frontend developer",
+    "shortDescription": "A software development for an oil and gas company",
+    "skillCodenames": [
+      "Angular",
+      "AngularMaterial",
+      "Confluence",
+      "Git",
+      "GitLab",
+      "Jira",
+      "RxJS",
+      "SASS",
+      "Scrum",
+      "TS"
+    ]
+  },
+  {
+    "period": "2019-08 – 2019-11",
+    "results": [
+      "Developed two SPA as part of a team commissioned by the Moscow government.",
+      "Organized innovations to improve the quality of frontend development."
+    ],
+    "role": "Frontend developer",
+    "shortDescription": "Contractor-producer of government websites",
+    "skillCodenames": [
+      "Bitbucket",
+      "Confluence",
+      "Git",
+      "HTML5",
+      "Jira",
+      "JS",
+      "SASS",
+      "Vue"
+    ]
+  },
+  {
+    "period": "2018-04 – 2018-04",
+    "results": [
+      "Created a delivery calculator for a logistics organization."
+    ],
+    "role": "Web developer",
+    "shortDescription": "Independent development",
+    "skillCodenames": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JS"
+    ]
+  },
+  {
+    "period": "2016-07 – 2019-07",
+    "results": [
+      "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
+      "Optimization, Virtual DOM, Pixel Perfect, cross-browser compatibility (including IE11).",
+      "Managed a team and reviewed colleagues' code."
+    ],
+    "role": "Software engineer",
+    "shortDescription": "SaaS, accounting and business management software provider",
+    "skillCodenames": [
+      "CrossBrowserCompatibility",
+      "CSS",
+      "Git",
+      "GitLab",
+      "HTML5",
+      "JS",
+      "ManagementOfEmployees",
+      "OOP",
+      "PixelPerfect",
+      "SPA",
+      "WaSaby",
+      "XML"
+    ]
+  },
+  {
+    "period": "2015-10 – 2016-05",
+    "results": [
+      "Created a parser for news from competitors' websites.",
+      "Made a promo page.",
+      "Made a quiz for a pastry shop's promotional page.",
+      "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
+    ],
+    "role": "Fullstack developer",
+    "shortDescription": "An information portal of the Trans-Baikal Territory",
+    "skillCodenames": [
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP",
+      "SVG"
+    ]
+  },
+  {
+    "period": "2016-04 – 2016-08",
+    "results": [
+      "Built websites for eight clients as a team.",
+      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
+      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
+      "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
+    ],
+    "role": "Junior fullstack developer",
+    "shortDescription": "A web studio",
+    "skillCodenames": [
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "period": "2016-01 – 2017-04",
+    "results": [
+      "Made a logo for student intellectual quizzes.",
+      "Implemented a website in a team to promote a student competition.",
+      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application."
+    ],
+    "role": "Junior fullstack developer",
+    "shortDescription": "Independent development",
+    "skillCodenames": [
+      "CorelDRAW",
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
+  }
+]

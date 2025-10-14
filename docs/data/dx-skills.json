@@ -1,0 +1,170 @@
+[
+  {
+    "codename": "Angular",
+    "title": "Angular"
+  },
+  {
+    "codename": "AngularMaterial",
+    "title": "Angular Material"
+  },
+  {
+    "codename": "Bitbucket",
+    "title": "Bitbucket"
+  },
+  {
+    "codename": "Confluence",
+    "title": "Confluence"
+  },
+  {
+    "codename": "ConventionalCommits",
+    "title": "Conventional Commits"
+  },
+  {
+    "codename": "CorelDRAW",
+    "title": "CorelDRAW"
+  },
+  {
+    "codename": "CrossBrowserCompatibility",
+    "title": "cross-browser compatibility"
+  },
+  {
+    "codename": "DS&A",
+    "title": "Data Structures & Algorithms"
+  },
+  {
+    "codename": "CSS",
+    "title": "CSS"
+  },
+  {
+    "codename": "ESLint",
+    "title": "ESLint"
+  },
+  {
+    "codename": "Figma",
+    "title": "Figma"
+  },
+  {
+    "codename": "Git",
+    "title": "Git"
+  },
+  {
+    "codename": "GitHub",
+    "title": "GitHub"
+  },
+  {
+    "codename": "GitLab",
+    "title": "GitLab"
+  },
+  {
+    "codename": "GoggleSheets",
+    "title": "Goggle Sheets"
+  },
+  {
+    "codename": "Highcharts",
+    "title": "Highcharts"
+  },
+  {
+    "codename": "HTML5",
+    "title": "HTML5"
+  },
+  {
+    "codename": "Jasmine",
+    "title": "Jasmine"
+  },
+  {
+    "codename": "JBWebStorm",
+    "title": "JetBrains WebStorm"
+  },
+  {
+    "codename": "Jira",
+    "title": "Jira"
+  },
+  {
+    "codename": "JS",
+    "title": "JavaScript"
+  },
+  {
+    "codename": "Karma",
+    "title": "Karma"
+  },
+  {
+    "codename": "ManagementOfEmployees",
+    "title": "management of employees"
+  },
+  {
+    "codename": "MySQL",
+    "title": "MySQL"
+  },
+  {
+    "codename": "OOP",
+    "title": "OOP"
+  },
+  {
+    "codename": "PHP",
+    "title": "PHP"
+  },
+  {
+    "codename": "PixelPerfect",
+    "title": "Pixel Perfect"
+  },
+  {
+    "codename": "Prettier",
+    "title": "Prettier"
+  },
+  {
+    "codename": "PrimeNG",
+    "title": "PrimeNG"
+  },
+  {
+    "codename": "RxJS",
+    "title": "RxJS"
+  },
+  {
+    "codename": "SASS",
+    "title": "SASS"
+  },
+  {
+    "codename": "Scrum",
+    "title": "Scrum"
+  },
+  {
+    "codename": "SMM",
+    "title": "SMM"
+  },
+  {
+    "codename": "SOLID",
+    "title": "SOLID"
+  },
+  {
+    "codename": "SPA",
+    "title": "SPA"
+  },
+  {
+    "codename": "SQL",
+    "title": "SQL"
+  },
+  {
+    "codename": "SVG",
+    "title": "SVG"
+  },
+  {
+    "codename": "TS",
+    "title": "TypeScript"
+  },
+  {
+    "codename": "Vite",
+    "title": "Vite"
+  },
+  {
+    "codename": "Vue",
+    "title": "Vue.js"
+  },
+  {
+    "codename": "WaSaby",
+    "title": "WaSaby"
+  },
+  {
+    "codename": "XML",
+    "title": "XML"
+  }
+]
