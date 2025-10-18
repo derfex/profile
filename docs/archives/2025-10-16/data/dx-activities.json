@@ -188,25 +188,7 @@
     ]
   },
   {
-    "period": "2016-04 – 2016-08",
-    "results": [
-      "Built websites for eight clients as a team.",
-      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
-      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
-      "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
-    ],
-    "role": "Junior full-stack developer",
-    "shortDescription": "A web studio",
-    "skillCodenames": [
-      "CSS",
-      "HTML5",
-      "JS",
-      "MySQL",
-      "PHP"
-    ]
-  },
-  {
-    "period": "2016-01 – 2017-04",
+    "period": "2014-11 – 2015-09",
     "results": [
       "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
       "Implemented a website in a team to promote a student competition.",
@@ -216,6 +198,24 @@
     "shortDescription": "Independent development",
     "skillCodenames": [
       "CorelDRAW",
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "period": "2014-04 – 2014-08",
+    "results": [
+      "Built websites for eight clients as a team.",
+      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
+      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
+      "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
+    ],
+    "role": "Junior full-stack developer",
+    "shortDescription": "A web studio",
+    "skillCodenames": [
       "CSS",
       "HTML5",
       "JS",
