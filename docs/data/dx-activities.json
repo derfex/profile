@@ -222,5 +222,18 @@
       "MySQL",
       "PHP"
     ]
+  },
+  {
+    "period": "2010-09 – 2010-12",
+    "results": [
+      "Improved a desktop application in C# for a library at an educational institution.",
+      "Created a series of presentations for library staff to deliver."
+    ],
+    "role": "Automated Help Desk specialist",
+    "shortDescription": "Automated Help Desk at an Educational Institution",
+    "skillCodenames": [
+      "CSharp",
+      "MSPowerPoint"
+    ]
   }
 ]
