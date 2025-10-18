@@ -56,8 +56,8 @@
     "title": "GitLab"
   },
   {
-    "codename": "GoggleSheets",
-    "title": "Goggle Sheets"
+    "codename": "GoogleSheets",
+    "title": "Google Sheets"
   },
   {
     "codename": "Highcharts",
@@ -94,6 +94,10 @@
   {
     "codename": "MySQL",
     "title": "MySQL"
+  },
+  {
+    "codename": "Nx",
+    "title": "Nx"
   },
   {
     "codename": "OOP",

@@ -7,7 +7,7 @@
       "Wrote SMM texts for a student organization.",
       "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
-    "role": "Frontend engineer first and foremost, in addition to designer and other roles",
+    "role": "Front-end engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Independent development",
     "skillCodenames": [
       "Angular",
@@ -15,7 +15,7 @@
       "DS&A",
       "Git",
       "GitHub",
-      "GoggleSheets",
+      "GoogleSheets",
       "HTML5",
       "Jasmine",
       "JBWebStorm",
@@ -31,12 +31,12 @@
   {
     "period": "2021-10 – 2025-09",
     "results": [
-      "Served as Team Leader for the five-person FE team.",
-      "Refactored the frontend architecture.",
+      "Performed a role of a Team Leader for the five-person front-end team.",
+      "Refactored the front-end architecture.",
       "Implemented strong typing.",
       "Designed and developed new functionality, fixed bugs, and maintained it.",
       "Implemented processes for writing and maintaining unit tests.",
-      "Implemented processes for writing API documentation for the BE team.",
+      "Implemented processes for writing API documentation for a back-end team.",
       "Conducted code reviews for colleagues."
     ],
     "role": "Senior software engineer",
@@ -68,11 +68,11 @@
     "period": "2020-07 – 2021-10",
     "results": [
       "Designed and developed new functionality.",
-      "Refactored the frontend architecture.",
+      "Refactored the front-end architecture.",
       "Developed a private component library used by all projects within the organization.",
       "As part of a collaborative group, created configs for tools used, such as ESLint."
     ],
-    "role": "Frontend developer",
+    "role": "Front-end developer",
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
@@ -91,7 +91,7 @@
     "results": [
       "Design and development of a group of web applications from scratch."
     ],
-    "role": "Frontend developer",
+    "role": "Front-end developer",
     "shortDescription": "A software development for an oil and gas company",
     "skillCodenames": [
       "Angular",
@@ -111,9 +111,9 @@
     "period": "2019-08 – 2019-11",
     "results": [
       "Developed two SPA as part of a team commissioned by the Moscow government.",
-      "Organized innovations to improve the quality of frontend development."
+      "Organized innovations to improve the quality of front-end development."
     ],
-    "role": "Frontend developer",
+    "role": "Front-end developer",
     "shortDescription": "Contractor-producer of government websites",
     "skillCodenames": [
       "Bitbucket",
@@ -176,7 +176,7 @@
       "Made a quiz for a pastry shop's promotional page.",
       "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
     ],
-    "role": "Fullstack developer",
+    "role": "Full-stack developer",
     "shortDescription": "An information portal of the Trans-Baikal Territory",
     "skillCodenames": [
       "CSS",
@@ -188,16 +188,16 @@
     ]
   },
   {
-    "period": "2016-04 – 2016-08",
+    "period": "2014-11 – 2015-09",
     "results": [
-      "Built websites for eight clients as a team.",
-      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
-      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
-      "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
+      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
+      "Implemented a website in a team to promote a student competition.",
+      "Made a logo for student intellectual quizzes."
     ],
-    "role": "Junior fullstack developer",
-    "shortDescription": "A web studio",
+    "role": "Junior full-stack developer",
+    "shortDescription": "Independent development",
     "skillCodenames": [
+      "CorelDRAW",
       "CSS",
       "HTML5",
       "JS",
@@ -206,16 +206,16 @@
     ]
   },
   {
-    "period": "2016-01 – 2017-04",
+    "period": "2014-04 – 2014-08",
     "results": [
-      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
-      "Implemented a website in a team to promote a student competition.",
-      "Made a logo for student intellectual quizzes."
+      "Built websites for eight clients as a team.",
+      "Сreated on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
+      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
+      "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
     ],
-    "role": "Junior fullstack developer",
-    "shortDescription": "Independent development",
+    "role": "Junior full-stack developer",
+    "shortDescription": "A web studio",
     "skillCodenames": [
-      "CorelDRAW",
       "CSS",
       "HTML5",
       "JS",
