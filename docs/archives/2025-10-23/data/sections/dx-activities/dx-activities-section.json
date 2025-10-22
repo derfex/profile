@@ -1,0 +1,9 @@
+{
+  "descriptionText": "Some of my commercial and non-commercial activities.",
+  "list": {
+    "emptyStateText": "Failed to load activity list.",
+    "skillsTitleText": "Skills",
+    "sourceRelativeURL": "data/entities/dx-activities/dx-activities.json"
+  },
+  "titleText": "Activities"
+}
