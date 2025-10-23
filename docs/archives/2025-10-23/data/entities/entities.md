@@ -1,6 +1,6 @@
 # `entities` folder
 
-The folder keeps files with data for entities of `student` application.
+The folder keeps files with data for entities of `profile` application.
 
 ## Code style
 
