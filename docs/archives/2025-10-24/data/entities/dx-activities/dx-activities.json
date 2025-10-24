@@ -1,5 +1,41 @@
 [
   {
+    "codename": "independent-2025-09",
+    "periodFrom": "2025-09",
+    "periodTo": null,
+    "results": [
+      "Came up with the idea.",
+      "Prepared the UI design.",
+      "Developed the architecture.",
+      "Implemented the user interface.",
+      "Formulated the texts.",
+      "Deployed the application on GitHub Pages."
+    ],
+    "role": "Author of the idea and performer",
+    "shortDescription": "Independent development",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Karma",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "SVG",
+      "TS",
+      "Vite"
+    ]
+  },
+  {
     "codename": "independent-2024-04",
     "periodFrom": "2024-04",
     "periodTo": null,
