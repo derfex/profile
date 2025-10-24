@@ -62,6 +62,7 @@
       "RxJS",
       "SASS",
       "SMM",
+      "SOLID",
       "SVG",
       "TS"
     ]
@@ -100,6 +101,7 @@
       "Prettier",
       "RxJS",
       "SASS",
+      "SOLID",
       "SVG",
       "TS"
     ]
@@ -118,13 +120,14 @@
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
+      "ESLint",
       "Figma",
       "Git",
       "GitLab",
       "JBWebStorm",
       "RxJS",
       "SASS",
-      "ESLint",
+      "SOLID",
       "TS"
     ]
   },
@@ -148,6 +151,7 @@
       "RxJS",
       "SASS",
       "Scrum",
+      "SOLID",
       "TS"
     ]
   },
@@ -170,6 +174,7 @@
       "Jira",
       "JS",
       "SASS",
+      "SOLID",
       "Vue"
     ]
   },
@@ -213,6 +218,7 @@
       "ManagementOfEmployees",
       "OOP",
       "PixelPerfect",
+      "SOLID",
       "SPA",
       "WaSaby",
       "XML"
