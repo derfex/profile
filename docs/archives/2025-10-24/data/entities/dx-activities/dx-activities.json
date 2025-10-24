@@ -1,6 +1,44 @@
 [
   {
-    "period": "2024-04 – current time",
+    "codename": "independent-2025-09",
+    "periodFrom": "2025-09",
+    "periodTo": null,
+    "results": [
+      "Came up with the idea.",
+      "Prepared the UI design.",
+      "Developed the architecture.",
+      "Implemented the user interface.",
+      "Formulated the texts.",
+      "Deployed the application on GitHub Pages."
+    ],
+    "role": "Author of the idea and performer",
+    "shortDescription": "Independent development",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Karma",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "SVG",
+      "TS",
+      "Vite"
+    ]
+  },
+  {
+    "codename": "independent-2024-04",
+    "periodFrom": "2024-04",
+    "periodTo": null,
     "results": [
       "Made a logo for a student organization.",
       "Implement a website for a student organization.",
@@ -24,12 +62,15 @@
       "RxJS",
       "SASS",
       "SMM",
+      "SOLID",
       "SVG",
       "TS"
     ]
   },
   {
-    "period": "2021-10 – 2025-09",
+    "codename": "international",
+    "periodFrom": "2021-10",
+    "periodTo": "2025-09",
     "results": [
       "Performed a role of a Team Leader for the five-person front-end team.",
       "Refactored the front-end architecture.",
@@ -60,34 +101,40 @@
       "Prettier",
       "RxJS",
       "SASS",
+      "SOLID",
       "SVG",
       "TS"
     ]
   },
   {
-    "period": "2020-07 – 2021-10",
+    "codename": "cybersecurity",
+    "periodFrom": "2020-07",
+    "periodTo": "2021-10",
     "results": [
       "Designed and developed new functionality.",
       "Refactored the front-end architecture.",
       "Developed a private component library used by all projects within the organization.",
-      "As part of a collaborative group, created configs for tools used, such as ESLint."
+      "As part of a collaborative group, created configs for tools used, such as ESLint, for all projects within the organization."
     ],
     "role": "Front-end developer",
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
+      "ESLint",
       "Figma",
       "Git",
       "GitLab",
       "JBWebStorm",
       "RxJS",
       "SASS",
-      "ESLint",
+      "SOLID",
       "TS"
     ]
   },
   {
-    "period": "2019-12 – 2020-05",
+    "codename": "oil",
+    "periodFrom": "2019-12",
+    "periodTo": "2020-05",
     "results": [
       "Design and development of a group of web applications from scratch."
     ],
@@ -104,11 +151,14 @@
       "RxJS",
       "SASS",
       "Scrum",
+      "SOLID",
       "TS"
     ]
   },
   {
-    "period": "2019-08 – 2019-11",
+    "codename": "waste",
+    "periodFrom": "2019-08",
+    "periodTo": "2019-11",
     "results": [
       "Developed two SPA as part of a team commissioned by the Moscow government.",
       "Organized innovations to improve the quality of front-end development."
@@ -124,11 +174,14 @@
       "Jira",
       "JS",
       "SASS",
+      "SOLID",
       "Vue"
     ]
   },
   {
-    "period": "2018-04 – 2018-04",
+    "codename": "independent-2018-04",
+    "periodFrom": "2018-04",
+    "periodTo": "2018-04",
     "results": [
       "Created a delivery calculator for a logistics organization."
     ],
@@ -144,7 +197,9 @@
     ]
   },
   {
-    "period": "2016-07 – 2019-07",
+    "codename": "vector_accounting",
+    "periodFrom": "2016-07",
+    "periodTo": "2019-07",
     "results": [
       "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
       "Optimization, Virtual DOM, Pixel Perfect, cross-browser compatibility (including IE11).",
@@ -163,13 +218,16 @@
       "ManagementOfEmployees",
       "OOP",
       "PixelPerfect",
+      "SOLID",
       "SPA",
       "WaSaby",
       "XML"
     ]
   },
   {
-    "period": "2015-10 – 2016-05",
+    "codename": "zab",
+    "periodFrom": "2015-10",
+    "periodTo": "2016-05",
     "results": [
       "Created a parser for news from competitors' websites.",
       "Made a promo page.",
@@ -188,7 +246,9 @@
     ]
   },
   {
-    "period": "2014-11 – 2015-09",
+    "codename": "independent-2014-11",
+    "periodFrom": "2014-11",
+    "periodTo": "2015-09",
     "results": [
       "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
       "Implemented a website in a team to promote a student competition.",
@@ -206,7 +266,9 @@
     ]
   },
   {
-    "period": "2014-04 – 2014-08",
+    "codename": "axe",
+    "periodFrom": "2014-04",
+    "periodTo": "2014-08",
     "results": [
       "Built websites for eight clients as a team.",
       "Created on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
@@ -221,19 +283,6 @@
       "JS",
       "MySQL",
       "PHP"
-    ]
-  },
-  {
-    "period": "2011-09 – 2011-10",
-    "results": [
-      "Improved a desktop application in C# for a library at an educational institution.",
-      "Created a series of presentations for library staff to deliver."
-    ],
-    "role": "Automated Help Desk specialist",
-    "shortDescription": "Automated Help Desk at an Educational Institution",
-    "skillCodenames": [
-      "CSharp",
-      "MSPowerPoint"
     ]
   }
 ]

@@ -25,15 +25,11 @@
   },
   {
     "codename": "CrossBrowserCompatibility",
-    "title": "cross-browser compatibility"
-  },
-  {
-    "codename": "CSharp",
-    "title": "C#"
+    "title": "кроссбраузерная совместимость"
   },
   {
     "codename": "DS&A",
-    "title": "Data Structures & Algorithms"
+    "title": "структуры данных и алгоритмы"
   },
   {
     "codename": "CSS",
@@ -93,11 +89,7 @@
   },
   {
     "codename": "ManagementOfEmployees",
-    "title": "management of employees"
-  },
-  {
-    "codename": "MSPowerPoint",
-    "title": "Microsoft PowerPoint"
+    "title": "управление сотрудниками"
   },
   {
     "codename": "MySQL",
@@ -109,7 +101,7 @@
   },
   {
     "codename": "OOP",
-    "title": "OOP"
+    "title": "ООП"
   },
   {
     "codename": "PHP",

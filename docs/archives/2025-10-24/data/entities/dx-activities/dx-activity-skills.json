@@ -28,10 +28,6 @@
     "title": "cross-browser compatibility"
   },
   {
-    "codename": "CSharp",
-    "title": "C#"
-  },
-  {
     "codename": "DS&A",
     "title": "Data Structures & Algorithms"
   },
@@ -94,10 +90,6 @@
   {
     "codename": "ManagementOfEmployees",
     "title": "management of employees"
-  },
-  {
-    "codename": "MSPowerPoint",
-    "title": "Microsoft PowerPoint"
   },
   {
     "codename": "MySQL",
