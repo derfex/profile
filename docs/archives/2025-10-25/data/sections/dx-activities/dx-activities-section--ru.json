@@ -1,0 +1,16 @@
+{
+  "descriptionText": "Некоторые из моих коммерческих и некоммерческих активностей.",
+  "list": {
+    "emptyStateText": "Не удалось загрузить список активностей.",
+    "item": {
+      "skillsTitleText": "Навыки"
+    },
+    "query": {
+      "skills": {
+        "sourceRelativeURL": "data/entities/dx-activities/dx-activity-skills--ru.json"
+      }
+    },
+    "sourceRelativeURL": "data/entities/dx-activities/dx-activities--ru.json"
+  },
+  "titleText": "Активности"
+}
