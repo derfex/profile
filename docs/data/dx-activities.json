@@ -1,6 +1,40 @@
 [
   {
-    "period": "2024-04 – current time",
+    "period": "2025-09 – present",
+    "results": [
+      "Came up with the idea.",
+      "Prepared the UI design.",
+      "Developed the architecture.",
+      "Implemented the user interface.",
+      "Formulated the texts.",
+      "Deployed the application on GitHub Pages."
+    ],
+    "role": "Author of the idea and performer",
+    "shortDescription": "Independent development of the application with information about me",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Karma",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "SVG",
+      "TS",
+      "Vite"
+    ]
+  },
+  {
+    "period": "2024-04 – present",
     "results": [
       "Made a logo for a student organization.",
       "Implement a website for a student organization.",
@@ -13,6 +47,7 @@
       "Angular",
       "ConventionalCommits",
       "DS&A",
+      "ESLint",
       "Git",
       "GitHub",
       "GoogleSheets",
@@ -24,6 +59,7 @@
       "RxJS",
       "SASS",
       "SMM",
+      "SOLID",
       "SVG",
       "TS"
     ]
@@ -60,6 +96,7 @@
       "Prettier",
       "RxJS",
       "SASS",
+      "SOLID",
       "SVG",
       "TS"
     ]
@@ -70,19 +107,20 @@
       "Designed and developed new functionality.",
       "Refactored the front-end architecture.",
       "Developed a private component library used by all projects within the organization.",
-      "As part of a collaborative group, created configs for tools used, such as ESLint."
+      "As part of a collaborative group, created configs for tools used, such as ESLint, for all projects within the organization."
     ],
     "role": "Front-end developer",
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
+      "ESLint",
       "Figma",
       "Git",
       "GitLab",
       "JBWebStorm",
       "RxJS",
       "SASS",
-      "ESLint",
+      "SOLID",
       "TS"
     ]
   },
@@ -104,6 +142,7 @@
       "RxJS",
       "SASS",
       "Scrum",
+      "SOLID",
       "TS"
     ]
   },
@@ -124,6 +163,7 @@
       "Jira",
       "JS",
       "SASS",
+      "SOLID",
       "Vue"
     ]
   },
@@ -163,8 +203,9 @@
       "ManagementOfEmployees",
       "OOP",
       "PixelPerfect",
+      "SOLID",
       "SPA",
-      "WaSaby",
+      "Wasaby",
       "XML"
     ]
   },
