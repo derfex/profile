@@ -51,6 +51,7 @@
       "Angular",
       "ConventionalCommits",
       "DS&A",
+      "ESLint",
       "Git",
       "GitHub",
       "GoogleSheets",
@@ -220,7 +221,7 @@
       "PixelPerfect",
       "SOLID",
       "SPA",
-      "WaSaby",
+      "Wasaby",
       "XML"
     ]
   },
@@ -283,6 +284,21 @@
       "JS",
       "MySQL",
       "PHP"
+    ]
+  },
+  {
+    "codename": "library",
+    "periodFrom": "2011-09",
+    "periodTo": "2011-10",
+    "results": [
+      "Улучшил desktop приложение на C# для библиотеки в учебном заведении.",
+      "Создал серию презентаций для сотрудников библиотеки."
+    ],
+    "role": "Специалист отдела АСУ",
+    "shortDescription": "Отдел автоматизированной системы управления при образовательном учреждении",
+    "skillCodenames": [
+      "CSharp",
+      "MSPowerPoint"
     ]
   }
 ]

@@ -12,7 +12,7 @@
       "Deployed the application on GitHub Pages."
     ],
     "role": "Author of the idea and performer",
-    "shortDescription": "Independent development",
+    "shortDescription": "Independent development of the application with information about me",
     "skillCodenames": [
       "Angular",
       "ConventionalCommits",
@@ -51,6 +51,7 @@
       "Angular",
       "ConventionalCommits",
       "DS&A",
+      "ESLint",
       "Git",
       "GitHub",
       "GoogleSheets",
@@ -220,7 +221,7 @@
       "PixelPerfect",
       "SOLID",
       "SPA",
-      "WaSaby",
+      "Wasaby",
       "XML"
     ]
   },
@@ -283,6 +284,21 @@
       "JS",
       "MySQL",
       "PHP"
+    ]
+  },
+  {
+    "codename": "library",
+    "periodFrom": "2011-09",
+    "periodTo": "2011-10",
+    "results": [
+      "Improved a desktop application in C# for a library at an educational institution.",
+      "Created a series of presentations for library staff to deliver."
+    ],
+    "role": "Automated Help Desk specialist",
+    "shortDescription": "Automated Help Desk at an Educational Institution",
+    "skillCodenames": [
+      "CSharp",
+      "MSPowerPoint"
     ]
   }
 ]

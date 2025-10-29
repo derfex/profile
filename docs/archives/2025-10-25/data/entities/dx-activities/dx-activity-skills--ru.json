@@ -28,6 +28,10 @@
     "title": "кроссбраузерная совместимость"
   },
   {
+    "codename": "CSharp",
+    "title": "C#"
+  },
+  {
     "codename": "DS&A",
     "title": "структуры данных и алгоритмы"
   },
@@ -90,6 +94,10 @@
   {
     "codename": "ManagementOfEmployees",
     "title": "управление сотрудниками"
+  },
+  {
+    "codename": "MSPowerPoint",
+    "title": "Microsoft PowerPoint"
   },
   {
     "codename": "MySQL",
@@ -164,8 +172,8 @@
     "title": "Vue.js"
   },
   {
-    "codename": "WaSaby",
-    "title": "WaSaby"
+    "codename": "Wasaby",
+    "title": "Wasaby"
   },
   {
     "codename": "XML",
