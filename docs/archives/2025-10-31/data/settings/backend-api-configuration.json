@@ -1,4 +1,5 @@
 {
   "dxActivitiesSectionCompiledRelativeURL": "data/compiled/dx-activities/dx-activities-section--compiled.json",
-  "dxActivitiesSectionRelativeURL": "data/sections/dx-activities/dx-activities-section.json"
+  "dxActivitiesSectionRelativeURL": "data/sections/dx-activities/dx-activities-section.json",
+  "heroSectionRelativeURL": "data/sections/hero/hero-section.json"
 }
