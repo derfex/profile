@@ -209,8 +209,9 @@
     "role": "Software engineer",
     "shortDescription": "SaaS, accounting and business management software provider",
     "skillCodenames": [
-      "CrossBrowserCompatibility",
       "CSS",
+      "CrossBrowserCompatibility",
+      "Fiddler",
       "Git",
       "GitLab",
       "HTML5",

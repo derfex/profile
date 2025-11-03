@@ -209,8 +209,9 @@
     "role": "Software engineer",
     "shortDescription": "SaaS, поставщик программного обеспечения для бухгалтерского учёта и ведения бизнеса",
     "skillCodenames": [
-      "CrossBrowserCompatibility",
       "CSS",
+      "CrossBrowserCompatibility",
+      "Fiddler",
       "Git",
       "GitLab",
       "HTML5",
