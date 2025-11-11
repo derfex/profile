@@ -5,19 +5,9 @@
     "url": "https://angular.dev"
   },
   {
-    "codename": "HTML5",
-    "name": "HTML5",
-    "url": "https://developer.mozilla.org/docs/Web/HTML"
-  },
-  {
-    "codename": "CSS",
-    "name": "CSS",
-    "url": "https://developer.mozilla.org/docs/Web/CSS"
-  },
-  {
-    "codename": "JS",
-    "name": "JavaScript",
-    "url": "https://developer.mozilla.org/docs/Web/JavaScript"
+    "codename": "RxJS",
+    "name": "RxJS",
+    "url": "https://rxjs.dev"
   },
   {
     "codename": "TS",
@@ -25,13 +15,48 @@
     "url": "https://www.typescriptlang.org"
   },
   {
-    "codename": "NodeJS",
-    "name": "Node.js",
-    "url": "https://nodejs.org"
+    "codename": "JS",
+    "name": "JavaScript",
+    "url": "https://developer.mozilla.org/docs/Web/JavaScript"
+  },
+  {
+    "codename": "SASS",
+    "name": "SASS",
+    "url": "https://sass-lang.com"
+  },
+  {
+    "codename": "CSS",
+    "name": "CSS",
+    "url": "https://developer.mozilla.org/docs/Web/CSS"
+  },
+  {
+    "codename": "HTML5",
+    "name": "HTML5",
+    "url": "https://developer.mozilla.org/docs/Web/HTML"
+  },
+  {
+    "codename": "SVG",
+    "name": "SVG",
+    "url": "https://developer.mozilla.org/docs/Web/SVG"
+  },
+  {
+    "codename": "Git",
+    "name": "Git",
+    "url": "https://git-scm.com"
   },
   {
     "codename": "GitHub",
     "name": "GitHub",
     "url": "https://github.com"
+  },
+  {
+    "codename": "Vue",
+    "name": "Vue.js",
+    "url": "https://vuejs.org"
+  },
+  {
+    "codename": "NodeJS",
+    "name": "Node.js",
+    "url": "https://nodejs.org"
   }
 ]
