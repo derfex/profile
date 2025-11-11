@@ -8,6 +8,10 @@
     "title": "Angular Material"
   },
   {
+    "codename": "Axios",
+    "title": "Axios"
+  },
+  {
     "codename": "Bitbucket",
     "title": "Bitbucket"
   },
@@ -92,6 +96,10 @@
     "title": "JavaScript"
   },
   {
+    "codename": "Kaiten",
+    "title": "Kaiten"
+  },
+  {
     "codename": "Karma",
     "title": "Karma"
   },
@@ -118,6 +126,10 @@
   {
     "codename": "PHP",
     "title": "PHP"
+  },
+  {
+    "codename": "Pinia",
+    "title": "Pinia"
   },
   {
     "codename": "PixelPerfect",
@@ -174,6 +186,14 @@
   {
     "codename": "Vue",
     "title": "Vue.js"
+  },
+  {
+    "codename": "VueRouter",
+    "title": "Vue Router"
+  },
+  {
+    "codename": "Vuetify",
+    "title": "Vuetify"
   },
   {
     "codename": "Wasaby",

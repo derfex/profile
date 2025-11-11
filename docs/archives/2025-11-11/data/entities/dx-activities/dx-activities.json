@@ -36,6 +36,35 @@
     ]
   },
   {
+    "codename": "PX",
+    "periodFrom": "2024-06",
+    "periodTo": "2025-04",
+    "results": [
+      "Design and development of a web application from scratch.",
+      "Code review."
+    ],
+    "role": "Front-end developer",
+    "shortDescription": "A marketplace aggregator",
+    "skillCodenames": [
+      "Axios",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitHub",
+      "JBWebStorm",
+      "Kaiten",
+      "Pinia",
+      "Prettier",
+      "SASS",
+      "SOLID",
+      "TS",
+      "Vite",
+      "Vue",
+      "VueRouter",
+      "Vuetify"
+    ]
+  },
+  {
     "codename": "independent-2024-04",
     "periodFrom": "2024-04",
     "periodTo": null,
