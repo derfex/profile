@@ -1,0 +1,8 @@
+{
+  "descriptionText": "Основные технологии и инструменты, которыми я владею.",
+  "list": {
+    "emptyStateText": "Не удалось загрузить список навыков.",
+    "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
+  },
+  "titleText": "Навыки"
+}

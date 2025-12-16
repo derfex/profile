@@ -1,0 +1,37 @@
+[
+  {
+    "codename": "Angular",
+    "name": "Angular",
+    "url": "https://angular.dev"
+  },
+  {
+    "codename": "HTML5",
+    "name": "HTML5",
+    "url": "https://developer.mozilla.org/docs/Web/HTML"
+  },
+  {
+    "codename": "CSS",
+    "name": "CSS",
+    "url": "https://developer.mozilla.org/docs/Web/CSS"
+  },
+  {
+    "codename": "JS",
+    "name": "JavaScript",
+    "url": "https://developer.mozilla.org/docs/Web/JavaScript"
+  },
+  {
+    "codename": "TS",
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org"
+  },
+  {
+    "codename": "NodeJS",
+    "name": "Node.js",
+    "url": "https://nodejs.org"
+  },
+  {
+    "codename": "GitHub",
+    "name": "GitHub",
+    "url": "https://github.com"
+  }
+]

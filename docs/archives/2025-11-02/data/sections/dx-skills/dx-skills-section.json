@@ -1,0 +1,8 @@
+{
+  "descriptionText": "The main technologies and tools that I own.",
+  "list": {
+    "emptyStateText": "Failed to load skills list.",
+    "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
+  },
+  "titleText": "Skills"
+}
