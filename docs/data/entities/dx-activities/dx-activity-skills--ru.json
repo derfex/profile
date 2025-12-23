@@ -116,6 +116,14 @@
     "title": "MySQL"
   },
   {
+    "codename": "NestJS",
+    "title": "NestJS"
+  },
+  {
+    "codename": "NodeJS",
+    "title": "Node.js"
+  },
+  {
     "codename": "Nx",
     "title": "Nx"
   },
@@ -184,6 +192,10 @@
     "title": "Vite"
   },
   {
+    "codename": "Vitest",
+    "title": "Vitest"
+  },
+  {
     "codename": "Vue",
     "title": "Vue.js"
   },
@@ -196,8 +208,16 @@
     "title": "Vuetify"
   },
   {
+    "codename": "Vuex",
+    "title": "Vuex"
+  },
+  {
     "codename": "Wasaby",
     "title": "Wasaby"
+  },
+  {
+    "codename": "WEBAPI",
+    "title": "WEB API"
   },
   {
     "codename": "XML",

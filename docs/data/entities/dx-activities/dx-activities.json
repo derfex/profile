@@ -1,18 +1,52 @@
 [
   {
-    "codename": "independent-2025-09",
+    "codename": "independent-2025-11--EN",
+    "periodFrom": "2025-11",
+    "periodTo": "2025-11",
+    "results": [
+      "Came up with the idea.",
+      "Prepared the UI design.",
+      "Developed the architecture.",
+      "Implemented the user interface.",
+      "Formulated the texts.",
+      "Deployed the application on GitHub Pages."
+    ],
+    "role": "Author of the idea and performer",
+    "shortDescription": "Independent development of a web-invitation to an event",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JBWebStorm",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "TS",
+      "Vite",
+      "Vitest"
+    ]
+  },
+  {
+    "codename": "independent-2025-09--EN",
     "periodFrom": "2025-09",
     "periodTo": null,
     "results": [
-      "Came up with the idea.",
-      "Prepared the UI design.",
-      "Developed the architecture.",
-      "Implemented the user interface.",
-      "Formulated the texts.",
-      "Deployed the application on GitHub Pages."
+      "Came up with the idea.",
+      "Prepared the UI design.",
+      "Developed the architecture.",
+      "Implemented the user interface.",
+      "Formulated the texts.",
+      "Deployed the application on GitHub Pages."
     ],
-    "role": "Author of the idea and performer",
-    "shortDescription": "Independent development of the application with information about me",
+    "role": "Author of the idea and performer",
+    "shortDescription": "Independent development of the application with information about me",
     "skillCodenames": [
       "Angular",
       "ConventionalCommits",
@@ -24,6 +58,8 @@
       "Jasmine",
       "JBWebStorm",
       "Karma",
+      "NestJS",
+      "NodeJS",
       "Nx",
       "OOP",
       "Prettier",
@@ -32,11 +68,12 @@
       "SOLID",
       "SVG",
       "TS",
-      "Vite"
+      "Vite",
+      "WEBAPI"
     ]
   },
   {
-    "codename": "PX",
+    "codename": "PX--EN",
     "periodFrom": "2024-06",
     "periodTo": "2025-04",
     "results": [
@@ -65,7 +102,7 @@
     ]
   },
   {
-    "codename": "independent-2024-04",
+    "codename": "independent-2024-04--EN",
     "periodFrom": "2024-04",
     "periodTo": null,
     "results": [
@@ -94,24 +131,25 @@
       "SMM",
       "SOLID",
       "SVG",
-      "TS"
+      "TS",
+      "WEBAPI"
     ]
   },
   {
-    "codename": "international",
+    "codename": "international--EN",
     "periodFrom": "2021-10",
     "periodTo": "2025-09",
     "results": [
-      "Performed a role of a Team Leader for the five-person front-end team.",
-      "Refactored the front-end architecture.",
+      "Performed a role of a Team Leader for the five-person front-end team.",
+      "Refactored the front-end architecture.",
       "Implemented strong typing.",
       "Designed and developed new functionality, fixed bugs, and maintained it.",
-      "Implemented processes for writing and maintaining unit tests.",
-      "Implemented processes for writing API documentation for a back-end team.",
-      "Conducted code reviews for colleagues."
+      "Implemented processes for writing and maintaining unit tests.",
+      "Implemented processes for writing API documentation for a back-end team.",
+      "Conducted code reviews for colleagues."
     ],
     "role": "Senior software engineer",
-    "shortDescription": "An international IT company",
+    "shortDescription": "An international IT company",
     "skillCodenames": [
       "Angular",
       "ConventionalCommits",
@@ -137,17 +175,17 @@
     ]
   },
   {
-    "codename": "cybersecurity",
+    "codename": "cybersecurity--EN",
     "periodFrom": "2020-07",
     "periodTo": "2021-10",
     "results": [
       "Designed and developed new functionality.",
-      "Refactored the front-end architecture.",
-      "Developed a private component library used by all projects within the organization.",
-      "As part of a collaborative group, created configs for tools used, such as ESLint, for all projects within the organization."
+      "Refactored the front-end architecture.",
+      "Developed a private component library used by all projects within the organization.",
+      "As part of a collaborative group, created configs for tools used, such as ESLint, for all projects within the organization."
     ],
     "role": "Front-end developer",
-    "shortDescription": "A cybersecurity company",
+    "shortDescription": "A cybersecurity company",
     "skillCodenames": [
       "Angular",
       "ESLint",
@@ -162,14 +200,14 @@
     ]
   },
   {
-    "codename": "oil",
+    "codename": "oil--EN",
     "periodFrom": "2019-12",
     "periodTo": "2020-05",
     "results": [
-      "Design and development of a group of web applications from scratch."
+      "Design and development of a group of web applications from scratch."
     ],
     "role": "Front-end developer",
-    "shortDescription": "A software development for an oil and gas company",
+    "shortDescription": "A software development for an oil and gas company",
     "skillCodenames": [
       "Angular",
       "AngularMaterial",
@@ -186,15 +224,15 @@
     ]
   },
   {
-    "codename": "waste",
+    "codename": "waste--EN",
     "periodFrom": "2019-08",
     "periodTo": "2019-11",
     "results": [
-      "Developed two SPA as part of a team commissioned by the Moscow government.",
-      "Organized innovations to improve the quality of front-end development."
+      "Developed two SPA as part of a team commissioned by the Moscow government.",
+      "Organized innovations to improve the quality of front-end development."
     ],
     "role": "Front-end developer",
-    "shortDescription": "Contractor-producer of government websites",
+    "shortDescription": "Contractor-producer of government websites",
     "skillCodenames": [
       "Bitbucket",
       "Confluence",
@@ -205,15 +243,16 @@
       "JS",
       "SASS",
       "SOLID",
-      "Vue"
+      "Vue",
+      "Vuex"
     ]
   },
   {
-    "codename": "independent-2018-04",
+    "codename": "independent-2018-04--EN",
     "periodFrom": "2018-04",
     "periodTo": "2018-04",
     "results": [
-      "Created a delivery calculator for a logistics organization."
+      "Created a delivery calculator for a logistics organization."
     ],
     "role": "Web developer",
     "shortDescription": "Independent development",
@@ -227,13 +266,13 @@
     ]
   },
   {
-    "codename": "vector_accounting",
+    "codename": "vector_accounting--EN",
     "periodFrom": "2016-07",
     "periodTo": "2019-07",
     "results": [
-      "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
+      "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
       "Optimization, Virtual DOM, Pixel Perfect, cross-browser compatibility (including IE11).",
-      "Managed a team and reviewed colleagues' code."
+      "Managed a team and reviewed colleagues' code."
     ],
     "role": "Software engineer",
     "shortDescription": "SaaS, accounting and business management software provider",
@@ -256,17 +295,17 @@
     ]
   },
   {
-    "codename": "zab",
+    "codename": "zab--EN",
     "periodFrom": "2015-10",
     "periodTo": "2016-05",
     "results": [
-      "Created a parser for news from competitors' websites.",
-      "Made a promo page.",
-      "Made a quiz for a pastry shop's promotional page.",
-      "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
+      "Created a parser for news from competitors' websites.",
+      "Made a promo page.",
+      "Made a quiz for a pastry shop's promotional page.",
+      "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
     ],
     "role": "Full-stack developer",
-    "shortDescription": "An information portal of the Trans-Baikal Territory",
+    "shortDescription": "An information portal of the Trans-Baikal Territory",
     "skillCodenames": [
       "CSS",
       "HTML5",
@@ -277,13 +316,13 @@
     ]
   },
   {
-    "codename": "independent-2014-11",
+    "codename": "independent-2014-11--EN",
     "periodFrom": "2014-11",
     "periodTo": "2015-09",
     "results": [
-      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
-      "Implemented a website in a team to promote a student competition.",
-      "Made a logo for student intellectual quizzes."
+      "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
+      "Implemented a website in a team to promote a student competition.",
+      "Made a logo for student intellectual quizzes."
     ],
     "role": "Junior full-stack developer",
     "shortDescription": "Independent development",
@@ -297,17 +336,17 @@
     ]
   },
   {
-    "codename": "axe",
+    "codename": "axe--EN",
     "periodFrom": "2014-04",
     "periodTo": "2014-08",
     "results": [
-      "Built websites for eight clients as a team.",
-      "Created on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
-      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
+      "Built websites for eight clients as a team.",
+      "Created on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
+      "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
       "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
     ],
     "role": "Junior full-stack developer",
-    "shortDescription": "A web studio",
+    "shortDescription": "A web studio",
     "skillCodenames": [
       "CSS",
       "HTML5",
@@ -317,15 +356,15 @@
     ]
   },
   {
-    "codename": "library",
+    "codename": "library--EN",
     "periodFrom": "2011-09",
     "periodTo": "2011-10",
     "results": [
-      "Improved a desktop application in C# for a library at an educational institution.",
-      "Created a series of presentations for library staff to deliver."
+      "Improved a desktop application in C# for a library at an educational institution.",
+      "Created a series of presentations for library staff to deliver."
     ],
     "role": "ASC department specialist",
-    "shortDescription": "Automated control system department at an educational institution",
+    "shortDescription": "Automated control system department at an educational institution",
     "skillCodenames": [
       "CSharp",
       "MSPowerPoint"
