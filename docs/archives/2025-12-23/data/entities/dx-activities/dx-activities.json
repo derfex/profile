@@ -11,7 +11,7 @@
       "Formulated the texts.",
       "Deployed the application on GitHub Pages."
     ],
-    "role": "Author of the idea and performer",
+    "role": "Author of the idea and performer",
     "shortDescription": "Independent development of a web-invitation to an event",
     "skillCodenames": [
       "Angular",
@@ -57,6 +57,7 @@
       "HTML5",
       "Jasmine",
       "JBWebStorm",
+      "Jest",
       "Karma",
       "NestJS",
       "NodeJS",
@@ -77,11 +78,11 @@
     "periodFrom": "2024-06",
     "periodTo": "2025-04",
     "results": [
-      "Design and development of a web application from scratch.",
+      "Design and development of a web application from scratch.",
       "Code review."
     ],
     "role": "Front-end developer",
-    "shortDescription": "A marketplace aggregator",
+    "shortDescription": "A marketplace aggregator",
     "skillCodenames": [
       "Axios",
       "ESLint",
@@ -106,10 +107,10 @@
     "periodFrom": "2024-04",
     "periodTo": null,
     "results": [
-      "Made a logo for a student organization.",
-      "Implement a website for a student organization.",
-      "Wrote SMM texts for a student organization.",
-      "Automated the calculation of piecework wages for a student organization in Google Sheets."
+      "Made a logo for a student organization.",
+      "Implement a website for a student organization.",
+      "Wrote SMM texts for a student organization.",
+      "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
     "role": "Front-end engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Independent development",
@@ -228,7 +229,7 @@
     "periodFrom": "2019-08",
     "periodTo": "2019-11",
     "results": [
-      "Developed two SPA as part of a team commissioned by the Moscow government.",
+      "Developed two SPA as part of a team commissioned by the Moscow government.",
       "Organized innovations to improve the quality of front-end development."
     ],
     "role": "Front-end developer",
@@ -322,7 +323,7 @@
     "results": [
       "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
       "Implemented a website in a team to promote a student competition.",
-      "Made a logo for student intellectual quizzes."
+      "Made a logo for student intellectual quizzes."
     ],
     "role": "Junior full-stack developer",
     "shortDescription": "Independent development",

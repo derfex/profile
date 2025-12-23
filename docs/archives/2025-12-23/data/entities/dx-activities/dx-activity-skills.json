@@ -88,6 +88,10 @@
     "title": "JetBrains WebStorm"
   },
   {
+    "codename": "Jest",
+    "title": "Jest"
+  },
+  {
     "codename": "Jira",
     "title": "Jira"
   },

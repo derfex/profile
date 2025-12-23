@@ -57,6 +57,7 @@
       "HTML5",
       "Jasmine",
       "JBWebStorm",
+      "Jest",
       "Karma",
       "NestJS",
       "NodeJS",
@@ -77,7 +78,7 @@
     "periodFrom": "2024-06",
     "periodTo": "2025-04",
     "results": [
-      "Спроектировал и разрабатывал web-приложение с нуля.",
+      "Спроектировал и разрабатывал web-приложение с нуля.",
       "Проводил code review."
     ],
     "role": "Front-end developer",
