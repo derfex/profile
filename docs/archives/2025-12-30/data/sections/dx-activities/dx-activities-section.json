@@ -1,8 +1,9 @@
 {
-  "descriptionText": "Some of my commercial and non-commercial activities.",
+  "descriptionText": "Some of my commercial and non-commercial activities.",
   "list": {
-    "emptyStateText": "Failed to load activity list.",
+    "emptyStateText": "Failed to load activity list.",
     "item": {
+      "achievementsTitleText": "Achievements",
       "skillsTitleText": "Skills"
     },
     "query": {
