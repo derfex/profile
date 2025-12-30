@@ -1,9 +1,6 @@
 [
   {
-    "codename": "independent-2025-11--EN",
-    "periodFrom": "2025-11",
-    "periodTo": "2025-11",
-    "results": [
+    "achievements": [
       "Came up with the idea.",
       "Prepared the UI design.",
       "Developed the architecture.",
@@ -11,6 +8,9 @@
       "Formulated the texts.",
       "Deployed the application on GitHub Pages."
     ],
+    "codename": "independent-2025-11--EN",
+    "periodFrom": "2025-11",
+    "periodTo": "2025-11",
     "role": "Author of the idea and performer",
     "shortDescription": "Independent development of a web-invitation to an event",
     "skillCodenames": [
@@ -34,10 +34,7 @@
     ]
   },
   {
-    "codename": "independent-2025-09--EN",
-    "periodFrom": "2025-09",
-    "periodTo": null,
-    "results": [
+    "achievements": [
       "Came up with the idea.",
       "Prepared the UI design.",
       "Developed the architecture.",
@@ -45,6 +42,9 @@
       "Formulated the texts.",
       "Deployed the application on GitHub Pages."
     ],
+    "codename": "independent-2025-09--EN",
+    "periodFrom": "2025-09",
+    "periodTo": null,
     "role": "Author of the idea and performer",
     "shortDescription": "Independent development of the application with information about me",
     "skillCodenames": [
@@ -74,13 +74,13 @@
     ]
   },
   {
-    "codename": "PX--EN",
-    "periodFrom": "2024-06",
-    "periodTo": "2025-04",
-    "results": [
+    "achievements": [
       "Design and development of a web application from scratch.",
       "Code review."
     ],
+    "codename": "PX--EN",
+    "periodFrom": "2024-06",
+    "periodTo": "2025-04",
     "role": "Front-end developer",
     "shortDescription": "A marketplace aggregator",
     "skillCodenames": [
@@ -103,15 +103,15 @@
     ]
   },
   {
-    "codename": "independent-2024-04--EN",
-    "periodFrom": "2024-04",
-    "periodTo": null,
-    "results": [
+    "achievements": [
       "Made a logo for a student organization.",
       "Implement a website for a student organization.",
       "Wrote SMM texts for a student organization.",
       "Automated the calculation of piecework wages for a student organization in Google Sheets."
     ],
+    "codename": "independent-2024-04--EN",
+    "periodFrom": "2024-04",
+    "periodTo": null,
     "role": "Front-end engineer first and foremost, in addition to designer and other roles",
     "shortDescription": "Independent development",
     "skillCodenames": [
@@ -137,10 +137,7 @@
     ]
   },
   {
-    "codename": "international--EN",
-    "periodFrom": "2021-10",
-    "periodTo": "2025-09",
-    "results": [
+    "achievements": [
       "Performed a role of a Team Leader for the five-person front-end team.",
       "Refactored the front-end architecture.",
       "Implemented strong typing.",
@@ -149,6 +146,9 @@
       "Implemented processes for writing API documentation for a back-end team.",
       "Conducted code reviews for colleagues."
     ],
+    "codename": "international--EN",
+    "periodFrom": "2021-10",
+    "periodTo": "2025-09",
     "role": "Senior software engineer",
     "shortDescription": "An international IT company",
     "skillCodenames": [
@@ -176,15 +176,15 @@
     ]
   },
   {
-    "codename": "cybersecurity--EN",
-    "periodFrom": "2020-07",
-    "periodTo": "2021-10",
-    "results": [
+    "achievements": [
       "Designed and developed new functionality.",
       "Refactored the front-end architecture.",
       "Developed a private component library used by all projects within the organization.",
       "As part of a collaborative group, created configs for tools used, such as ESLint, for all projects within the organization."
     ],
+    "codename": "cybersecurity--EN",
+    "periodFrom": "2020-07",
+    "periodTo": "2021-10",
     "role": "Front-end developer",
     "shortDescription": "A cybersecurity company",
     "skillCodenames": [
@@ -201,12 +201,12 @@
     ]
   },
   {
+    "achievements": [
+      "Design and development of a group of web applications from scratch."
+    ],
     "codename": "oil--EN",
     "periodFrom": "2019-12",
     "periodTo": "2020-05",
-    "results": [
-      "Design and development of a group of web applications from scratch."
-    ],
     "role": "Front-end developer",
     "shortDescription": "A software development for an oil and gas company",
     "skillCodenames": [
@@ -225,13 +225,13 @@
     ]
   },
   {
-    "codename": "waste--EN",
-    "periodFrom": "2019-08",
-    "periodTo": "2019-11",
-    "results": [
+    "achievements": [
       "Developed two SPA as part of a team commissioned by the Moscow government.",
       "Organized innovations to improve the quality of front-end development."
     ],
+    "codename": "waste--EN",
+    "periodFrom": "2019-08",
+    "periodTo": "2019-11",
     "role": "Front-end developer",
     "shortDescription": "Contractor-producer of government websites",
     "skillCodenames": [
@@ -249,12 +249,12 @@
     ]
   },
   {
+    "achievements": [
+      "Created a delivery calculator for a logistics organization."
+    ],
     "codename": "independent-2018-04--EN",
     "periodFrom": "2018-04",
     "periodTo": "2018-04",
-    "results": [
-      "Created a delivery calculator for a logistics organization."
-    ],
     "role": "Web developer",
     "shortDescription": "Independent development",
     "skillCodenames": [
@@ -267,14 +267,14 @@
     ]
   },
   {
-    "codename": "vector_accounting--EN",
-    "periodFrom": "2016-07",
-    "periodTo": "2019-07",
-    "results": [
+    "achievements": [
       "SaaS, SPA interface development, OOP component architecture design, component and library implementation, API provision for third-party departments.",
       "Optimization, Virtual DOM, Pixel Perfect, cross-browser compatibility (including IE11).",
       "Managed a team and reviewed colleagues' code."
     ],
+    "codename": "vector_accounting--EN",
+    "periodFrom": "2016-07",
+    "periodTo": "2019-07",
     "role": "Software engineer",
     "shortDescription": "SaaS, accounting and business management software provider",
     "skillCodenames": [
@@ -296,15 +296,15 @@
     ]
   },
   {
-    "codename": "zab--EN",
-    "periodFrom": "2015-10",
-    "periodTo": "2016-05",
-    "results": [
+    "achievements": [
       "Created a parser for news from competitors' websites.",
       "Made a promo page.",
       "Made a quiz for a pastry shop's promotional page.",
       "Design, development, and technical support of websites and web services based on PHP, JavaScript, MySQL, HTML, CSS, and SVG technologies."
     ],
+    "codename": "zab--EN",
+    "periodFrom": "2015-10",
+    "periodTo": "2016-05",
     "role": "Full-stack developer",
     "shortDescription": "An information portal of the Trans-Baikal Territory",
     "skillCodenames": [
@@ -317,14 +317,14 @@
     ]
   },
   {
-    "codename": "independent-2014-11--EN",
-    "periodFrom": "2014-11",
-    "periodTo": "2015-09",
-    "results": [
+    "achievements": [
       "Automated the calculation of piecework wages for combine harvester operators in an agricultural company via a web application.",
       "Implemented a website in a team to promote a student competition.",
       "Made a logo for student intellectual quizzes."
     ],
+    "codename": "independent-2014-11--EN",
+    "periodFrom": "2014-11",
+    "periodTo": "2015-09",
     "role": "Junior full-stack developer",
     "shortDescription": "Independent development",
     "skillCodenames": [
@@ -337,15 +337,15 @@
     ]
   },
   {
-    "codename": "axe--EN",
-    "periodFrom": "2014-04",
-    "periodTo": "2014-08",
-    "results": [
+    "achievements": [
       "Built websites for eight clients as a team.",
       "Created on my own a web application for a tablet to draw up an estimate specification and administer a set of services.",
       "Website development and management, primarily for online stores. Resource analytics and optimization. Contextual advertising.",
       "Layout development, JavaScript, asynchronous database queries, PHP, MySQL."
     ],
+    "codename": "axe--EN",
+    "periodFrom": "2014-04",
+    "periodTo": "2014-08",
     "role": "Junior full-stack developer",
     "shortDescription": "A web studio",
     "skillCodenames": [
@@ -357,13 +357,13 @@
     ]
   },
   {
-    "codename": "library--EN",
-    "periodFrom": "2011-09",
-    "periodTo": "2011-10",
-    "results": [
+    "achievements": [
       "Improved a desktop application in C# for a library at an educational institution.",
       "Created a series of presentations for library staff to deliver."
     ],
+    "codename": "library--EN",
+    "periodFrom": "2011-09",
+    "periodTo": "2011-10",
     "role": "ASC department specialist",
     "shortDescription": "Automated control system department at an educational institution",
     "skillCodenames": [
