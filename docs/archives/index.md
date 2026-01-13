@@ -1,8 +1,29 @@
 # Archives
 
 - [2026-01-13](./2026-01-13)
+    - Improve `header`'s buttons.
+    - Improve `hero`.
+    - Improve `dx-activities`.
+        - Add `list.query.items`. 
+        - Reduce the list. 
+    - Improve the color scheme.
+    - Improve the font-size scheme.
+    - Improve the spacing system.
 - [2025-12-31](./2025-12-31)
+    - Improve `dx-activities`.
+        - Use single color for the headings.
+        - Add “Achievements” heading.
+        - Add the element.
+    - Improve `dx-projects`.
+    - Add the empty section as a footer.
 - [2025-11-11](./2025-11-11)
+    - Allow to use the dark theme.
+    - Improve `dx-skills`.
+        - Add the elements.
+    - Improve `dx-activities`.
+        - Add the element.
+        - Add the activity skills.
+    - Move `dx-projects` to the bottom of the page.
 - [2025-11-04](./2025-11-04)
 - [2025-11-02](./2025-11-02)
 - [2025-10-24](./2025-10-24)
