@@ -1,5 +1,11 @@
 # Archives
 
+- [2026-01-14](./2026-01-14)
+    - Improve `hero`.
+        - Delete `.`.
+    - Improve `dx-activities`.
+        - Increase the `gap`.
+    - Do not redefine `h4`'s `color`.
 - [2026-01-13](./2026-01-13)
     - Improve `header`'s buttons.
     - Improve `hero`.
