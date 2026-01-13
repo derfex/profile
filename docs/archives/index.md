@@ -3,9 +3,11 @@
 - [2026-01-13](./2026-01-13)
     - Improve `header`'s buttons.
     - Improve `hero`.
+        - Stylize the priority method of communication.
+        - Add Gmail contact.
     - Improve `dx-activities`.
-        - Add `list.query.items`. 
-        - Reduce the list. 
+        - Add `list.query.items`.
+        - Reduce the list.
     - Improve the color scheme.
     - Improve the font-size scheme.
     - Improve the spacing system.
