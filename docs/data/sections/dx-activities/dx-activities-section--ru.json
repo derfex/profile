@@ -1,11 +1,32 @@
 {
-  "descriptionText": "Некоторые из моих коммерческих и некоммерческих активностей.",
+  "descriptionText": "Некоторые из моих коммерческих и некоммерческих активностей.",
   "list": {
-    "emptyStateText": "Не удалось загрузить список активностей.",
+    "emptyStateText": "Не удалось загрузить список активностей.",
     "item": {
+      "achievementsTitleText": "Достижения",
       "skillsTitleText": "Навыки"
     },
     "query": {
+      "items": [
+        {
+          "codename": "independent-2025-09--RU"
+        },
+        {
+          "codename": "PX--RU"
+        },
+        {
+          "codename": "international--RU"
+        },
+        {
+          "codename": "cybersecurity--RU"
+        },
+        {
+          "codename": "waste--RU"
+        },
+        {
+          "codename": "vector_accounting--RU"
+        }
+      ],
       "skills": {
         "sourceRelativeURL": "data/entities/dx-activities/dx-activity-skills--ru.json"
       }

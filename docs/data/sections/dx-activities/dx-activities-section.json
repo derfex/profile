@@ -1,11 +1,32 @@
 {
-  "descriptionText": "Some of my commercial and non-commercial activities.",
+  "descriptionText": "Some of my commercial and non-commercial activities.",
   "list": {
-    "emptyStateText": "Failed to load activity list.",
+    "emptyStateText": "Failed to load activity list.",
     "item": {
+      "achievementsTitleText": "Achievements",
       "skillsTitleText": "Skills"
     },
     "query": {
+      "items": [
+        {
+          "codename": "independent-2025-09--EN"
+        },
+        {
+          "codename": "PX--EN"
+        },
+        {
+          "codename": "international--EN"
+        },
+        {
+          "codename": "cybersecurity--EN"
+        },
+        {
+          "codename": "waste--EN"
+        },
+        {
+          "codename": "vector_accounting--EN"
+        }
+      ],
       "skills": {
         "sourceRelativeURL": "data/entities/dx-activities/dx-activity-skills.json"
       }
