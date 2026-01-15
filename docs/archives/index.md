@@ -1,5 +1,9 @@
 # Archives
 
+- [2026-01-15](./2026-01-15)
+    - Improve `hero`.
+        - Improve the call-to-action button.
+    - Improve the headings (`h2`, `h3`), using the gradient.
 - [2026-01-14](./2026-01-14)
     - Improve `hero`.
         - Delete `.`.
