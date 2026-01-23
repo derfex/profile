@@ -1,0 +1,17 @@
+{
+  "descriptionText": "Some of my commercial and non-commercial activities.",
+  "list": {
+    "emptyStateText": "Failed to load activity list.",
+    "item": {
+      "achievementsTitleText": "Achievements",
+      "skillsTitleText": "Skills"
+    },
+    "query": {
+      "skills": {
+        "sourceRelativeURL": "data/entities/dx-activities/dx-activity-skills.json"
+      }
+    },
+    "sourceRelativeURL": "data/entities/dx-activities/dx-activities.json"
+  },
+  "titleText": "Activities"
+}
