@@ -3,6 +3,9 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-01-30](./2026-01-30)
+    - Create “ConvenientNumberInput”.
+
 - [2026-01-23](./2026-01-23)
     - Improve the root page.
         - Add the navigation and the routing.
