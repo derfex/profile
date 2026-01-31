@@ -3,6 +3,12 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-01-31](./2026-01-31)
+  - Improve “Price comparison”.
+    - Add the clear form button.
+    - Add the responsive form table.
+  - Fix `favicon.ico`.
+
 - [2026-01-30](./2026-01-30)
     - Create “ConvenientNumberInput”.
 
