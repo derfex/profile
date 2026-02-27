@@ -1,5 +1,5 @@
 {
-  "descriptionText": "The main technologies and tools that I am proficient.",
+  "descriptionText": "The main technologies and tools that I am proficient in.",
   "list": {
     "emptyStateText": "Failed to load skills list.",
     "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
