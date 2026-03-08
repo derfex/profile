@@ -1,5 +1,8 @@
 # Archives
 
+- 2026-02-27
+    - Improve `dx-skills`.
+        - Improve the `EN` description.
 - [2026-01-15](./2026-01-15)
     - Improve `hero`.
         - Improve the call-to-action button.
