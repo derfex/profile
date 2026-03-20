@@ -43,11 +43,15 @@ Vue 3 (composition API), Pinia, `vue-router`, Vuetify, SASS, Nx, ESLint, Prettie
 
 Популярная игра для двоих с реализованным и оптимизированным алгоритмом определения победителя.
 
-- [deployed application][tic-tac-toe-deployed]
-- [source code][tic-tac-toe-source]
+- [развёрнутое приложение][tic-tac-toe-deployed]
+- [исходный код][tic-tac-toe-source]
 
 Технологии (как и обещал):
 HTML, CSS, JS.
+
+---
+
+*Актуализировано: 2026-03-20*
 
 ---
 

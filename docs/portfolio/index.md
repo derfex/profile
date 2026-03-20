@@ -51,6 +51,10 @@ HTML, CSS, JS.
 
 ---
 
+*Actualized: 2026-03-20*
+
+---
+
 Carefully crafted with 🧠  
 by [`derfex`][derfex-profile] | 2019 – 2026
 
