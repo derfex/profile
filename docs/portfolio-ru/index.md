@@ -52,7 +52,7 @@ HTML, CSS, JS.
 ---
 
 Бережно изготовлено с 🧠  
-[`derfex`][derfex-profile] | 2019–2026
+[`derfex`][derfex-profile] | 2019 — 2026
 
 
 [derfex-profile]: https://derfex.github.io/profile
