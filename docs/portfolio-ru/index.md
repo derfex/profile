@@ -1,6 +1,6 @@
 ---
 title: "Портфолио `derfex`"
-description: "Исследуй проекты, реализованные derfex."
+description: "Исследовать проекты, реализованные derfex."
 ---
 
 # Портфолио `derfex`
