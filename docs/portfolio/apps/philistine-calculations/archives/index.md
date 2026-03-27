@@ -3,6 +3,10 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-03-18](./2026-03-18)
+  - Improve “Price comparison”.
+    - Allow to change the input groups array.
+
 - [2026-01-31](./2026-01-31)
   - Improve “Price comparison”.
     - Add the clear form button.
