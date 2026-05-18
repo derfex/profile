@@ -3,6 +3,11 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-05-18](./2026-05-18)
+  - Improve “Price comparison”.
+    - Allow to collapse and expand the input components.
+    - Clear the inputs on initialization.
+
 - [2026-03-18](./2026-03-18)
   - Improve “Price comparison”.
     - Allow to change the input groups array.
