@@ -1,0 +1,12 @@
+{
+  "descriptionText": "Некоторые из моих проектов в открытом доступе.",
+  "list": {
+    "emptyStateText": "Не удалось загрузить список проекты.",
+    "item": {
+      "resultTitleText": "Результат",
+      "sourceCodeTitleText": "Исходный код"
+    },
+    "sourceRelativeURL": "data/entities/dx-projects/dx-projects.json"
+  },
+  "titleText": "Проекты"
+}
