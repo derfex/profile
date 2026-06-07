@@ -3,6 +3,7 @@
 - [2026-06-07](2026-06-07)
     - Migrate to Angular@21.
     - Use `font-family: 'Tektur', sans-serif`.
+    - Improve `dx-projects`.
 - 2026-02-27
     - Improve `dx-skills`.
         - Improve the `EN` description.
