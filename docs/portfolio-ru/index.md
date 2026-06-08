@@ -19,7 +19,7 @@ description: "Исследовать проекты, реализованные 
 
 Технологии:  
 Angular 21, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.  
-[Изучить подробности][derfex-profile-technologies].
+[Изучить подробности (en)][derfex-profile-technologies].
 
 ### Pet shop / *Зоомагазин*
 
@@ -30,7 +30,7 @@ Angular 21, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.
 
 Технологии:  
 Angular 20, Angular Material, Nx, ESLint, Prettier.  
-[Изучить подробности][pet-shop-technologies].
+[Изучить подробности (en)][pet-shop-technologies].
 
 ### Philistine calculations / *Обывательские расчёты*
 
@@ -41,7 +41,7 @@ Angular 20, Angular Material, Nx, ESLint, Prettier.
 
 Технологии:  
 Vue 3 (composition API), `vue-router`, SASS, Nx, ESLint, Prettier.  
-[Изучить подробности][philistine-calculations-technologies].
+[Изучить подробности (en)][philistine-calculations-technologies].
 
 ### Vehicles registry / *Реестр транспорта*
 
@@ -52,7 +52,7 @@ Vue 3 (composition API), `vue-router`, SASS, Nx, ESLint, Prettier.
 
 Технологии:  
 Vue 3 (composition API), Pinia, `vue-router`, Vuetify, Web API, SASS, Nx, ESLint, Prettier.  
-[Изучить подробности][vehicles-registry-technologies].
+[Изучить подробности (en)][vehicles-registry-technologies].
 
 ## Нативное, чистое, vanilla
 
