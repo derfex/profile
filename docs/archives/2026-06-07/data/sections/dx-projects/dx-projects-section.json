@@ -1,0 +1,12 @@
+{
+  "descriptionText": "Some of my projects are open source.",
+  "list": {
+    "emptyStateText": "Failed to load projects list.",
+    "item": {
+      "resultTitleText": "Result",
+      "sourceCodeTitleText": "Source code"
+    },
+    "sourceRelativeURL": "data/entities/dx-projects/dx-projects.json"
+  },
+  "titleText": "Projects"
+}
