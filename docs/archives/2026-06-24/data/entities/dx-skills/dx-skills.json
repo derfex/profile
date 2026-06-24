@@ -1,62 +1,195 @@
 [
   {
     "codename": "Angular",
+    "proficiencyLevelDescription": "Experience with Angular versions from 8 to 21. I am currently actively exploring the new features of the latest version and looking to expand my expertise. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Component architecture, feature-based structure, separation of responsibility, robust API",
+      "Best practices",
+      "Signals",
+      "Standalone components",
+      "Zoneless change detection",
+      "OnPush",
+      "Control flow",
+      "Reactive forms",
+      "Routing",
+      "Unit tests: Jasmine, Karma, Jest, Vitest",
+      "Strongest typing via TypeScript"
+    ],
     "name": "Angular",
-    "url": "https://angular.dev"
+    "referenceCaption": "Learn more about the framework at angular.dev",
+    "referenceURL": "https://angular.dev",
+    "shortDescription": "A framework for building scalable web apps with confidence."
   },
   {
     "codename": "RxJS",
+    "proficiencyLevelDescription": "I implement complex UI logic and avoid memory leaks. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Operators: creation, transformation, filtering, combination, higher-order, error-handling, utility",
+      "Query optimization",
+      "Integration with Angular"
+    ],
     "name": "RxJS",
-    "url": "https://rxjs.dev"
+    "referenceCaption": "Learn more about the technology at rxjs.dev",
+    "referenceURL": "https://rxjs.dev",
+    "shortDescription": "Reactive Extensions Library for JavaScript"
   },
   {
     "codename": "TS",
+    "proficiencyLevelDescription": "Deep knowledge, preference for the strictest typing settings. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Generics",
+      "Utility Types",
+      "Classes",
+      "Modules",
+      "Strict mode",
+      "Lint rules (ESLint)"
+    ],
     "name": "TypeScript",
-    "url": "https://www.typescriptlang.org"
+    "referenceCaption": "Learn more about the technology at typescriptlang.org",
+    "referenceURL": "https://www.typescriptlang.org",
+    "shortDescription": "A strongly typed programming language that builds on JavaScript, giving you better tooling at any  scale."
   },
   {
     "codename": "JS",
+    "proficiencyLevelDescription": "Early in my career, I invested a lot of time in mastering native technologies, including JavaScript. This knowledge now allows me to gain a deeper understanding of derivative technologies. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Highly qualified in modern ECMAScript (ES5–ES2025)",
+      "Prototypal inheritance",
+      "Collections: Map, Set",
+      "Promises, async / await",
+      "Modularity, design patterns, SOLID principles as applied to JavaScript",
+      "Web API",
+      "Planning large migrations"
+    ],
     "name": "JavaScript",
-    "url": "https://developer.mozilla.org/docs/Web/JavaScript"
+    "referenceCaption": "Learn more about the technology at developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/JavaScript",
+    "shortDescription": "A lightweight interpreted programming language with first-class functions. A prototype-based, garbage-collected, dynamic lightweight interpreted programming language, supporting multiple paradigms such as imperative, functional, and object-oriented."
   },
   {
     "codename": "SASS",
+    "proficiencyLevelDescription": "I use SASS to generate CSS with atomic mixins. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Formation of a unified style system: design system, component library",
+      "Excellent knowledge of SCSS/SASS syntax: variables, nesting, mixins, functions"
+    ],
     "name": "SASS",
-    "url": "https://sass-lang.com"
+    "referenceCaption": "Learn more about the technology at sass-lang.com",
+    "referenceURL": "https://sass-lang.com",
+    "shortDescription": "The most mature, stable, and powerful professional grade CSS extension language in the world."
   },
   {
     "codename": "CSS",
-    "name": "CSS",
-    "url": "https://developer.mozilla.org/docs/Web/CSS"
+    "proficiencyLevelDescription": "Early in my career, I invested a lot of time in mastering native technologies, including CSS. This knowledge now allows me to gain a deeper understanding of derivative technologies. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Formation of a unified style system: design system, component library",
+      "Selectors, specificity, cascade, inheritance, box model, positioning",
+      "Layout: flexbox, grid (grid-template-columns: subgrid)",
+      "Theming, prefers-color-scheme",
+      "Custom properties",
+      "Logical properties",
+      "Media queries",
+      "Mobile-first, responsive design, breakpoints",
+      "BEM",
+      "Pixel perfect"
+    ],
+    "name": "CSS: Cascading Style Sheets",
+    "referenceCaption": "Learn more about the technology at developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/CSS",
+    "shortDescription": "A stylesheet language used to describe the presentation of a document written in HTML or XML."
   },
   {
     "codename": "HTML5",
-    "name": "HTML5",
-    "url": "https://developer.mozilla.org/docs/Web/HTML"
+    "proficiencyLevelDescription": "Early in my career, I invested a lot of time in mastering native technologies, including HTML. This knowledge now allows me to gain a deeper understanding of derivative technologies. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Semantic markup, correct document structure",
+      "Forms and their correctness",
+      "Links, media, and attachments",
+      "Tables and data",
+      "Interactive HTML elements",
+      "Accessibility via HTML",
+      "Technical markup discipline, valid HTML"
+    ],
+    "name": "HTML 5: HyperText Markup Language",
+    "referenceCaption": "Learn more about the technology at developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/HTML",
+    "shortDescription": "The most basic building block of the Web. It defines the meaning and structure of web content."
   },
   {
     "codename": "SVG",
-    "name": "SVG",
-    "url": "https://developer.mozilla.org/docs/Web/SVG"
+    "proficiencyLevelDescription": "I am able to create and modify lightweight vector images for subsequent custom display and animation. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Basic elements, commands for path attribute",
+      "Grouping and reuse",
+      "Integration with Angular"
+    ],
+    "name": "SVG: Scalable Vector Graphics",
+    "referenceCaption": "Learn more about the technology at developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/SVG",
+    "shortDescription": "An XML-based markup language for describing two-dimensional based vector graphics."
   },
   {
     "codename": "Git",
+    "proficiencyLevelDescription": "I almost always develop using Git version control system, regardless of the size of a team. We can make history using Git. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Conventional commits",
+      "Atomic commits",
+      "cherry-pick, rebase, revert, squash",
+      "stash",
+      "GitHub, GitLab, Bitbucket"
+    ],
     "name": "Git",
-    "url": "https://git-scm.com"
+    "referenceCaption": "Learn more about the technology at git-scm.com",
+    "referenceURL": "https://git-scm.com",
+    "shortDescription": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
   },
   {
     "codename": "GitHub",
+    "proficiencyLevelDescription": "I love open source and contributing to inspiring projects. I love having access to my own implementations anywhere on the Earth connected to the Internet. I enjoy working in a team and receiving feedback on my projects via issues. I also use Github Pages as a free, limited hosting service. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Repositories, projects, issues",
+      "Pull requests, descriptions using Markdown, how to reduce “diff noise”",
+      "Differences between merge strategies on GitHub (merge commit / squash / rebase) and the implications for history",
+      "Code review, suggested changes",
+      "Security and quality, Dependabot alerts",
+      "Branch protection",
+      "GitHub Pages"
+    ],
     "name": "GitHub",
-    "url": "https://github.com"
+    "referenceCaption": "Learn more about the platform at github.com",
+    "referenceURL": "https://github.com/about",
+    "shortDescription": "The world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
   },
   {
     "codename": "Vue",
+    "proficiencyLevelDescription": "I enjoy playing the role of a front-end architect, designing and implementing components and other system nodes. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "Component architecture, feature-based structure, separation of responsibility, robust API",
+      "Composite API, composables",
+      "Strongest typing via TypeScript",
+      "Reactivity",
+      "Performance",
+      "Pinia, Vuex",
+      "Vue Router",
+      "Vuetify"
+    ],
     "name": "Vue.js",
-    "url": "https://vuejs.org"
+    "referenceCaption": "Learn more about the framework at vuejs.org",
+    "referenceURL": "https://vuejs.org",
+    "shortDescription": "An approachable, performant and versatile framework for building web user interfaces."
   },
   {
     "codename": "NodeJS",
+    "proficiencyLevelDescription": "I was inspired to learn Node.js by the opportunity to use the latest JavaScript features before their widespread support in web browsers. I have already mastered and use the following.",
+    "proficiencyLevelListItems": [
+      "REST API design and maintenance: NestJS",
+      "Working with the file system: node:fs, fs-extra",
+      "Strongest typing via TypeScript",
+      "NPM"
+    ],
     "name": "Node.js",
-    "url": "https://nodejs.org"
+    "referenceCaption": "Learn more about the technology at nodejs.org",
+    "referenceURL": "https://nodejs.org",
+    "shortDescription": "A free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts."
   }
 ]
