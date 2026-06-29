@@ -1,8 +1,15 @@
 {
   "descriptionText": "Основные технологии и инструменты, которыми я владею.",
+  "details": {
+    "minHeight": {
+      "forDeviceWidthExtraSmall": 1156,
+      "forDeviceWidthLarge": 604
+    }
+  },
   "list": {
+    "descriptionText": "Выберите карточку навыка, чтобы узнать, что именно я освоил и использую.",
     "emptyStateText": "Не удалось загрузить список навыков.",
-    "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
+    "sourceRelativeURL": "data/entities/dx-skills/dx-skills--ru.json"
   },
   "titleText": "Навыки"
 }

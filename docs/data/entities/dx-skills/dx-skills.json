@@ -19,8 +19,7 @@
     "name": "Angular",
     "referenceCaption": "Learn more about the framework at angular.dev",
     "referenceURL": "https://angular.dev",
-    "shortDescription": "A framework for building scalable web apps with confidence.",
-    "url": "https://angular.dev"
+    "shortDescription": "A framework for building scalable web apps with confidence."
   },
   {
     "codename": "RxJS",
@@ -33,8 +32,7 @@
     "name": "RxJS",
     "referenceCaption": "Learn more about the technology at rxjs.dev",
     "referenceURL": "https://rxjs.dev",
-    "shortDescription": "Reactive Extensions Library for JavaScript",
-    "url": "https://rxjs.dev"
+    "shortDescription": "Reactive Extensions Library for JavaScript"
   },
   {
     "codename": "TS",
@@ -50,8 +48,7 @@
     "name": "TypeScript",
     "referenceCaption": "Learn more about the technology at typescriptlang.org",
     "referenceURL": "https://www.typescriptlang.org",
-    "shortDescription": "A strongly typed programming language that builds on JavaScript, giving you better tooling at any  scale.",
-    "url": "https://www.typescriptlang.org"
+    "shortDescription": "A strongly typed programming language that builds on JavaScript, giving you better tooling at any  scale."
   },
   {
     "codename": "JS",
@@ -68,8 +65,7 @@
     "name": "JavaScript",
     "referenceCaption": "Learn more about the technology at developer.mozilla.org",
     "referenceURL": "https://developer.mozilla.org/docs/Web/JavaScript",
-    "shortDescription": "A lightweight interpreted programming language with first-class functions. A prototype-based, garbage-collected, dynamic lightweight interpreted programming language, supporting multiple paradigms such as imperative, functional, and object-oriented.",
-    "url": "https://developer.mozilla.org/docs/Web/JavaScript"
+    "shortDescription": "A lightweight interpreted programming language with first-class functions. A prototype-based, garbage-collected, dynamic lightweight interpreted programming language, supporting multiple paradigms such as imperative, functional, and object-oriented."
   },
   {
     "codename": "SASS",
@@ -81,8 +77,7 @@
     "name": "SASS",
     "referenceCaption": "Learn more about the technology at sass-lang.com",
     "referenceURL": "https://sass-lang.com",
-    "shortDescription": "The most mature, stable, and powerful professional grade CSS extension language in the world.",
-    "url": "https://sass-lang.com"
+    "shortDescription": "The most mature, stable, and powerful professional grade CSS extension language in the world."
   },
   {
     "codename": "CSS",
@@ -102,8 +97,7 @@
     "name": "CSS: Cascading Style Sheets",
     "referenceCaption": "Learn more about the technology at developer.mozilla.org",
     "referenceURL": "https://developer.mozilla.org/docs/Web/CSS",
-    "shortDescription": "A stylesheet language used to describe the presentation of a document written in HTML or XML.",
-    "url": "https://developer.mozilla.org/docs/Web/CSS"
+    "shortDescription": "A stylesheet language used to describe the presentation of a document written in HTML or XML."
   },
   {
     "codename": "HTML5",
@@ -120,8 +114,7 @@
     "name": "HTML 5: HyperText Markup Language",
     "referenceCaption": "Learn more about the technology at developer.mozilla.org",
     "referenceURL": "https://developer.mozilla.org/docs/Web/HTML",
-    "shortDescription": "The most basic building block of the Web. It defines the meaning and structure of web content.",
-    "url": "https://developer.mozilla.org/docs/Web/HTML"
+    "shortDescription": "The most basic building block of the Web. It defines the meaning and structure of web content."
   },
   {
     "codename": "SVG",
@@ -134,8 +127,7 @@
     "name": "SVG: Scalable Vector Graphics",
     "referenceCaption": "Learn more about the technology at developer.mozilla.org",
     "referenceURL": "https://developer.mozilla.org/docs/Web/SVG",
-    "shortDescription": "An XML-based markup language for describing two-dimensional based vector graphics.",
-    "url": "https://developer.mozilla.org/docs/Web/SVG"
+    "shortDescription": "An XML-based markup language for describing two-dimensional based vector graphics."
   },
   {
     "codename": "Git",
@@ -150,8 +142,7 @@
     "name": "Git",
     "referenceCaption": "Learn more about the technology at git-scm.com",
     "referenceURL": "https://git-scm.com",
-    "shortDescription": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
-    "url": "https://git-scm.com"
+    "shortDescription": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
   },
   {
     "codename": "GitHub",
@@ -168,8 +159,7 @@
     "name": "GitHub",
     "referenceCaption": "Learn more about the platform at github.com",
     "referenceURL": "https://github.com/about",
-    "shortDescription": "The world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
-    "url": "https://github.com"
+    "shortDescription": "The world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
   },
   {
     "codename": "Vue",
@@ -187,8 +177,7 @@
     "name": "Vue.js",
     "referenceCaption": "Learn more about the framework at vuejs.org",
     "referenceURL": "https://vuejs.org",
-    "shortDescription": "An approachable, performant and versatile framework for building web user interfaces.",
-    "url": "https://vuejs.org"
+    "shortDescription": "An approachable, performant and versatile framework for building web user interfaces."
   },
   {
     "codename": "NodeJS",
@@ -202,7 +191,6 @@
     "name": "Node.js",
     "referenceCaption": "Learn more about the technology at nodejs.org",
     "referenceURL": "https://nodejs.org",
-    "shortDescription": "A free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-    "url": "https://nodejs.org"
+    "shortDescription": "A free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts."
   }
 ]

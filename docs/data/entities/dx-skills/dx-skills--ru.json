@@ -1,0 +1,196 @@
+[
+  {
+    "codename": "Angular",
+    "proficiencyLevelDescription": "Экспертиза в Angular версий 8–21. Сейчас активно поглощаю возможности новейшей версии и стремлюсь расширить свои знания и навыки. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Архитектура компонентов, feature-based структура, разделение ответственности, надёжный API",
+      "Лучшие практики",
+      "Signals",
+      "Standalone components",
+      "Zoneless change detection",
+      "OnPush",
+      "Control flow",
+      "Reactive forms",
+      "Routing",
+      "Unit tests: Jasmine, Karma, Jest, Vitest",
+      "Angular Material, PrimeNG",
+      "Строжайшая типизация с помощью TypeScript"
+    ],
+    "name": "Angular",
+    "referenceCaption": "Узнать больше о фреймворке на angular.dev",
+    "referenceURL": "https://angular.dev",
+    "shortDescription": "Фреймворк для уверенного создания масштабируемых web-приложений."
+  },
+  {
+    "codename": "RxJS",
+    "proficiencyLevelDescription": "Я реализую сложную логику пользовательского интерфейса и избегаю утечек памяти. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Operators: создание, трансформация, фильтрация, комбинирование, higher-order, обработка ошибок, utility",
+      "Оптимизация запросов",
+      "Интеграция с Angular"
+    ],
+    "name": "RxJS",
+    "referenceCaption": "Узнать больше о технологии на  rxjs.dev",
+    "referenceURL": "https://rxjs.dev",
+    "shortDescription": "Библиотека реактивных расширений для JavaScript"
+  },
+  {
+    "codename": "TS",
+    "proficiencyLevelDescription": "Глубокие знания, предпочтение самым строгим настройкам типизации. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Generics",
+      "Utility Types",
+      "Classes",
+      "Modules",
+      "Strict mode",
+      "Lint rules (ESLint)"
+    ],
+    "name": "TypeScript",
+    "referenceCaption": "Узнать больше о технологии на  typescriptlang.org",
+    "referenceURL": "https://www.typescriptlang.org",
+    "shortDescription": "Строго типизированный язык программирования, основанный на JavaScript, предоставляющий лучшие инструменты для работы в любом масштабе."
+  },
+  {
+    "codename": "JS",
+    "proficiencyLevelDescription": "В начале своей карьеры я инвестировал много времени в освоение нативных технологий, включая JavaScript. Эти знания теперь позволяют мне глубже понимать производные технологии. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Высокая квалификация в современных ECMAScript (ES5–ES2025)",
+      "Прототипное наследование",
+      "Collections: Map, Set",
+      "Promises, async / await",
+      "Модульность, design patterns, принципы SOLID в применении к JavaScript",
+      "Web API",
+      "Планирование масштабных миграций"
+    ],
+    "name": "JavaScript",
+    "referenceCaption": "Узнать больше о технологии на  developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/JavaScript",
+    "shortDescription": "Легковесный интерпретируемый язык программирования с функциями первого класса. Прототипно-ориентированный, динамический, легковесный интерпретируемый язык программирования с автоматической сборкой мусора, поддерживающий множество парадигм, таких как императивный, функциональный и объектно-ориентированный."
+  },
+  {
+    "codename": "SASS",
+    "proficiencyLevelDescription": "Я использую SASS для генерации CSS с атомарными mixins. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Формирование единой системы стилей: design system, библиотека компонентов",
+      "Отличное знание синтаксиса SCSS/SASS: variables, nesting, mixins, functions"
+    ],
+    "name": "SASS",
+    "referenceCaption": "Узнать больше о технологии на  sass-lang.com",
+    "referenceURL": "https://sass-lang.com",
+    "shortDescription": "Самый зрелый, стабильный и мощный профессиональный язык расширений CSS в мире."
+  },
+  {
+    "codename": "CSS",
+    "proficiencyLevelDescription": "В начале своей карьеры я инвестировал много времени в освоение нативных технологий, включая CSS. Эти знания теперь позволяют мне глубже понимать производные технологии. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Формирование единой системы стилей: design system, библиотека компонентов",
+      "Селекторы, специфичность, каскад, наследование, блочная модель, позиционирование",
+      "Layout: flexbox, grid (grid-template-columns: subgrid)",
+      "Тематическое оформление, prefers-color-scheme",
+      "Custom properties",
+      "Logical properties",
+      "Media queries",
+      "Mobile-first, responsive design, breakpoints",
+      "BEM",
+      "Pixel perfect"
+    ],
+    "name": "CSS: Cascading Style Sheets",
+    "referenceCaption": "Узнать больше о технологии на  developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/CSS",
+    "shortDescription": "Язык таблиц стилей, используемый для описания представления документа, написанного на HTML или XML."
+  },
+  {
+    "codename": "HTML5",
+    "proficiencyLevelDescription": "В начале своей карьеры я инвестировал много времени в освоение нативных технологий, включая HTML. Эти знания теперь позволяют мне глубже понимать производные технологии. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Семантическая разметка, правильная структура документа",
+      "Формы и их корректность",
+      "Ссылки, медиафайлы и вложения",
+      "Таблицы и данные",
+      "Интерактивные HTML-элементы",
+      "Accessibility с помощью HTML",
+      "Техническая дисциплина в разметке, valid HTML"
+    ],
+    "name": "HTML 5: HyperText Markup Language",
+    "referenceCaption": "Узнать больше о технологии на  developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/HTML",
+    "shortDescription": "Самый основной строительный блок Web. Определяет смысл и структуру web-контента."
+  },
+  {
+    "codename": "SVG",
+    "proficiencyLevelDescription": "Я могу создавать и изменять легковесные векторные изображения для последующего кастомизируемого отображения и анимации. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Основные элементы, команды для path атрибута",
+      "Группировка и переиспользование",
+      "Интеграция с Angular"
+    ],
+    "name": "SVG: Scalable Vector Graphics",
+    "referenceCaption": "Узнать больше о технологии на  developer.mozilla.org",
+    "referenceURL": "https://developer.mozilla.org/docs/Web/SVG",
+    "shortDescription": "Язык разметки на основе XML для описания двухмерной векторной графики."
+  },
+  {
+    "codename": "Git",
+    "proficiencyLevelDescription": "Я почти всегда использую систему контроля версий Git в разработке, независимо от размера команды. Творить историю можно и с помощью Git. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Conventional commits",
+      "Атомарные commits",
+      "cherry-pick, rebase, revert, squash",
+      "stash",
+      "GitHub, GitLab, Bitbucket"
+    ],
+    "name": "Git",
+    "referenceCaption": "Узнать больше о технологии на  git-scm.com",
+    "referenceURL": "https://git-scm.com",
+    "shortDescription": "Бесплатная распределённая система контроля версий с открытым исходным кодом, разработанная для быстрой и эффективной обработки проектов любого масштаба, от небольших до очень крупных."
+  },
+  {
+    "codename": "GitHub",
+    "proficiencyLevelDescription": "Я люблю открытый исходный код и вношу свой вклад во вдохновляющие проекты. Мне нравится иметь доступ к моим собственным наработкам из любой точки Земли, подключенной к Интернет. Мне нравится работать в команде и получать обратную связь по моим проектам через систему отслеживания предложений и ошибок (issues). Я также использую Github Pages в качестве бесплатного хостинга с ограничениями. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Repositories, projects, issues",
+      "Pull requests, описания с использованием Markdown, как сокращать “diff noise”",
+      "Различия между стратегиями слияния на GitHub (merge commit / squash / rebase) и их последствия для истории изменений.",
+      "Code review, suggested changes",
+      "Безопасность и качество, Dependabot alerts",
+      "Branch protection",
+      "GitHub Pages"
+    ],
+    "name": "GitHub",
+    "referenceCaption": "Узнать больше о платформе на github.com",
+    "referenceURL": "https://github.com/about",
+    "shortDescription": "Самая распространенная в мире платформа для разработчиков, использующая искусственный интеллект, где миллионы разработчиков, предприятий и крупнейшее сообщество открытого исходного кода создают программное обеспечение, которое приносит пользу человечеству."
+  },
+  {
+    "codename": "Vue",
+    "proficiencyLevelDescription": "Мне нравится выступать в роли front-end architect, проектируя и реализуя компоненты и другие узлы системы. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Архитектура компонентов, feature-based структура, разделение ответственности, надёжный API",
+      "Composite API, composables",
+      "Строжайшая типизация с помощью TypeScript",
+      "Reactivity",
+      "Производительность",
+      "Pinia, Vuex",
+      "Vue Router",
+      "Vuetify"
+    ],
+    "name": "Vue.js",
+    "referenceCaption": "Узнать больше о фреймворке на vuejs.org",
+    "referenceURL": "https://vuejs.org",
+    "shortDescription": "Удобный, высокопроизводительный и универсальный фреймворк для создания web-интерфейсов пользователя."
+  },
+  {
+    "codename": "NodeJS",
+    "proficiencyLevelDescription": "Меня вдохновило на изучение Node.js то, что появилась возможность использовать новейшие возвомжности JavaScript до их широкого распространения в web-браузерах. Уже освоил и использую следующее.",
+    "proficiencyLevelListItems": [
+      "Разработка и поддержка REST API: NestJS",
+      "Работа с файловой системой: node:fs, fs-extra",
+      "Строжайшая типизация с помощью TypeScript",
+      "NPM"
+    ],
+    "name": "Node.js",
+    "referenceCaption": "Узнать больше о технологии на  nodejs.org",
+    "referenceURL": "https://nodejs.org",
+    "shortDescription": "Бесплатная, открытая, кроссплатформенная среда выполнения JavaScript, позволяющая разработчикам создавать серверы, web-приложения, инструменты командной строки и скрипты."
+  }
+]

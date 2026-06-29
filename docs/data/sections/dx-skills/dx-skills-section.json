@@ -1,6 +1,13 @@
 {
   "descriptionText": "The main technologies and tools that I am proficient in.",
+  "details": {
+    "minHeight": {
+      "forDeviceWidthExtraSmall": 1156,
+      "forDeviceWidthLarge": 540
+    }
+  },
   "list": {
+    "descriptionText": "Select a skill card to see what I've mastered and use.",
     "emptyStateText": "Failed to load skills list.",
     "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
   },
