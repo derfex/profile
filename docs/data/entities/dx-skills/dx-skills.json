@@ -13,6 +13,7 @@
       "Reactive forms",
       "Routing",
       "Unit tests: Jasmine, Karma, Jest, Vitest",
+      "Angular Material, PrimeNG",
       "Strongest typing via TypeScript"
     ],
     "name": "Angular",
