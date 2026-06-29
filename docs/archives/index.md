@@ -4,6 +4,7 @@
     - Improve `dx-skills`.
         - Improve the section.
         - Improve the data.
+    - Improve `::selection`.
 - [2026-06-07](2026-06-07)
     - Migrate to Angular@21.
     - Use `font-family: 'Tektur', sans-serif`.
