@@ -3,10 +3,11 @@
   "details": {
     "minHeight": {
       "forDeviceWidthExtraSmall": 1132,
-      "forDeviceWidthLarge": 516
+      "forDeviceWidthLarge": 532
     }
   },
   "list": {
+    "descriptionText": "Select a skill card to see what I've mastered and use.",
     "emptyStateText": "Failed to load skills list.",
     "sourceRelativeURL": "data/entities/dx-skills/dx-skills.json"
   },

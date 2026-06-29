@@ -3,10 +3,11 @@
   "details": {
     "minHeight": {
       "forDeviceWidthExtraSmall": 1132,
-      "forDeviceWidthLarge": 516
+      "forDeviceWidthLarge": 604
     }
   },
   "list": {
+    "descriptionText": "Выберите карточку навыка, чтобы узнать, что именно я освоил и использую.",
     "emptyStateText": "Не удалось загрузить список навыков.",
     "sourceRelativeURL": "data/entities/dx-skills/dx-skills--ru.json"
   },
