@@ -86,7 +86,7 @@
       "Формирование единой системы стилей: design system, библиотека компонентов",
       "Селекторы, специфичность, каскад, наследование, блочная модель, позиционирование",
       "Layout: flexbox, grid (grid-template-columns: subgrid)",
-      "Тематическое оформление, prefers-color-scheme",
+      "Тематическое оформление, prefers-color-scheme, color-mix",
       "Custom properties",
       "Logical properties",
       "Media queries",
