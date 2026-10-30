@@ -1,0 +1,374 @@
+[
+  {
+    "achievements": [
+      "Придумал идею.",
+      "Подготовил UI design.",
+      "Разработал архитектуру.",
+      "Реализовал пользовательский интерфейс.",
+      "Сформулировал тексты.",
+      "Развернул приложение на GitHub Pages."
+    ],
+    "codename": "independent-2025-11--RU",
+    "periodFrom": "2025-11",
+    "periodTo": "2025-11",
+    "role": "Автор идеи и исполнитель",
+    "shortDescription": "Независимая разработка web-приглашения на мероприятие",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JBWebStorm",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "TS",
+      "Vite",
+      "Vitest"
+    ]
+  },
+  {
+    "achievements": [
+      "Придумал идею.",
+      "Подготовил UI design.",
+      "Разработал архитектуру.",
+      "Реализовал пользовательский интерфейс.",
+      "Сформулировал тексты.",
+      "Развернул приложение на GitHub Pages."
+    ],
+    "codename": "independent-2025-09--RU",
+    "periodFrom": "2025-09",
+    "periodTo": null,
+    "role": "Автор идеи и исполнитель",
+    "shortDescription": "Независимая разработка приложения с информацией обо мне",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Jest",
+      "Karma",
+      "NestJS",
+      "NodeJS",
+      "Nx",
+      "OOP",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "SVG",
+      "TS",
+      "Vite",
+      "WEBAPI"
+    ]
+  },
+  {
+    "achievements": [
+      "Спроектировал и разрабатывал web-приложение с нуля.",
+      "Проводил code review."
+    ],
+    "codename": "PX--RU",
+    "periodFrom": "2024-06",
+    "periodTo": "2025-04",
+    "role": "Front-end developer",
+    "shortDescription": "Агрегатор маркетплейсов",
+    "skillCodenames": [
+      "Axios",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitHub",
+      "JBWebStorm",
+      "Kaiten",
+      "Pinia",
+      "Prettier",
+      "SASS",
+      "SOLID",
+      "TS",
+      "Vite",
+      "Vue",
+      "VueRouter",
+      "Vuetify"
+    ]
+  },
+  {
+    "achievements": [
+      "Создал логотип для студенческой организации.",
+      "Разработал сайт для студенческой организации.",
+      "Написал SMM тексты для студенческой организации.",
+      "Автоматизировал расчёт сдельной оплаты труда для студенческой организации в Google Sheets."
+    ],
+    "codename": "independent-2024-04--RU",
+    "periodFrom": "2024-04",
+    "periodTo": null,
+    "role": "Front-end engineer прежде всего, также дизайнер и другие роли",
+    "shortDescription": "Независимая разработка",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Git",
+      "GitHub",
+      "GoogleSheets",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Karma",
+      "PrimeNG",
+      "RxJS",
+      "SASS",
+      "SMM",
+      "SOLID",
+      "SVG",
+      "TS",
+      "WEBAPI"
+    ]
+  },
+  {
+    "achievements": [
+      "Выполнял роль Team Leader для front-end команды из пяти человек.",
+      "Провёл рефакторинг front-end архитектуры.",
+      "Ввёл строгую типизацию в кодовую базу.",
+      "Спроектировал и реализовал новую функциональность, поддерживал приложение и исправлял ошибки.",
+      "Интегрировал процессы написания и поддержки unit-тестов.",
+      "Интегрировал процессы написания документации по API для back-end команды.",
+      "Проводил code reviews для коллег."
+    ],
+    "codename": "international--RU",
+    "periodFrom": "2021-10",
+    "periodTo": "2025-09",
+    "role": "Senior software engineer",
+    "shortDescription": "Международная IT-компания",
+    "skillCodenames": [
+      "Angular",
+      "ConventionalCommits",
+      "DS&A",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Highcharts",
+      "HTML5",
+      "Jasmine",
+      "JBWebStorm",
+      "Jira",
+      "Karma",
+      "ManagementOfEmployees",
+      "Prettier",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "SVG",
+      "TS"
+    ]
+  },
+  {
+    "achievements": [
+      "Спроектировал и разработал новую функциональность.",
+      "Выполнил рефакторинг front-end архитектуры.",
+      "Разработал приватную библиотеку компонентов, используемую во всех проектах внутри организации.",
+      "В составе команды создал конфиги для используемых инструментов, таких как ESLint, для всех проектов организации."
+    ],
+    "codename": "cybersecurity--RU",
+    "periodFrom": "2020-07",
+    "periodTo": "2021-10",
+    "role": "Front-end developer",
+    "shortDescription": "Компания в области кибербезопасности",
+    "skillCodenames": [
+      "Angular",
+      "ESLint",
+      "Figma",
+      "Git",
+      "GitLab",
+      "JBWebStorm",
+      "RxJS",
+      "SASS",
+      "SOLID",
+      "TS"
+    ]
+  },
+  {
+    "achievements": [
+      "Спроектировал и разработал группу web-приложений с нуля."
+    ],
+    "codename": "oil--RU",
+    "periodFrom": "2019-12",
+    "periodTo": "2020-05",
+    "role": "Front-end developer",
+    "shortDescription": "Разработка ПО для нефтегазовой компании",
+    "skillCodenames": [
+      "Angular",
+      "AngularMaterial",
+      "Confluence",
+      "Git",
+      "GitLab",
+      "JBWebStorm",
+      "Jira",
+      "RxJS",
+      "SASS",
+      "Scrum",
+      "SOLID",
+      "TS"
+    ]
+  },
+  {
+    "achievements": [
+      "Разработал два SPA в составе команды по заказу правительства Москвы.",
+      "Организовал новшества для улучшения качества front-end разработки."
+    ],
+    "codename": "waste--RU",
+    "periodFrom": "2019-08",
+    "periodTo": "2019-11",
+    "role": "Front-end developer",
+    "shortDescription": "Исполнительный подрядчик для правительственных сайтов",
+    "skillCodenames": [
+      "Bitbucket",
+      "Confluence",
+      "Git",
+      "HTML5",
+      "JBWebStorm",
+      "Jira",
+      "JS",
+      "SASS",
+      "SOLID",
+      "Vue",
+      "Vuex"
+    ]
+  },
+  {
+    "achievements": [
+      "Создал калькулятор доставки для организации, оказывающей услуги логистики."
+    ],
+    "codename": "independent-2018-04--RU",
+    "periodFrom": "2018-04",
+    "periodTo": "2018-04",
+    "role": "Web developer",
+    "shortDescription": "Независимая разработка",
+    "skillCodenames": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JBWebStorm",
+      "JS"
+    ]
+  },
+  {
+    "achievements": [
+      "Разработал пользовательский интерфейс для SaaS, спроектировал ООП архитектуру компонентов, реализовал компоненты и библиотеки, обеспечил API для программистов из смежных отделов.",
+      "Оптимизация, виртуальный DOM, Pixel Perfect, кроссбраузерная совместимость (включая IE11).",
+      "Управлял командой, делал code review коллег."
+    ],
+    "codename": "vector_accounting--RU",
+    "periodFrom": "2016-07",
+    "periodTo": "2019-07",
+    "role": "Software engineer",
+    "shortDescription": "SaaS, поставщик программного обеспечения для бухгалтерского учёта и ведения бизнеса",
+    "skillCodenames": [
+      "CSS",
+      "CrossBrowserCompatibility",
+      "Fiddler",
+      "Git",
+      "GitLab",
+      "HTML5",
+      "JBWebStorm",
+      "JS",
+      "ManagementOfEmployees",
+      "OOP",
+      "PixelPerfect",
+      "SOLID",
+      "SPA",
+      "Wasaby",
+      "XML"
+    ]
+  },
+  {
+    "achievements": [
+      "Создал парсер новостей с сайтов конкурентов.",
+      "Сделал промо-страницу.",
+      "Создал викторину для промо-страницы кондитерской.",
+      "Спроектировал, разработал и осуществлял техническую поддержку сайтов и web-сервисов на основе технологий PHP, JavaScript, MySQL, HTML, CSS и SVG."
+    ],
+    "codename": "zab--RU",
+    "periodFrom": "2015-10",
+    "periodTo": "2016-05",
+    "role": "Full-stack developer",
+    "shortDescription": "Информационный портал Забайкальского края",
+    "skillCodenames": [
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP",
+      "SVG"
+    ]
+  },
+  {
+    "achievements": [
+      "Автоматизировал расчёт сдельной оплаты труда для операторов комбайнов в агрокомпании через web-приложение.",
+      "Реализовал сайт в команде для продвижения студенческого конкурса.",
+      "Создал логотип для студенческих интеллектуальных викторин."
+    ],
+    "codename": "independent-2014-11--RU",
+    "periodFrom": "2014-11",
+    "periodTo": "2015-09",
+    "role": "Junior full-stack developer",
+    "shortDescription": "Независимая разработка",
+    "skillCodenames": [
+      "CorelDRAW",
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "achievements": [
+      "Создал сайты для восьми клиентов в составе команды.",
+      "Создал web-приложение для планшета для оформления спецификации сметы и администрирования набора услуг.",
+      "Разработка и ведение сайтов, преимущественно интернет-магазинов. Аналитика и оптимизация ресурсов. Контекстная реклама.",
+      "Вёрстка макетов, JavaScript, асинхронные запросы к базам данных, PHP, MySQL."
+    ],
+    "codename": "axe--RU",
+    "periodFrom": "2014-04",
+    "periodTo": "2014-08",
+    "role": "Junior full-stack developer",
+    "shortDescription": "Web-студия",
+    "skillCodenames": [
+      "CSS",
+      "HTML5",
+      "JS",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "achievements": [
+      "Улучшил desktop приложение на C# для библиотеки в учебном заведении.",
+      "Создал серию презентаций для сотрудников библиотеки."
+    ],
+    "codename": "library--RU",
+    "periodFrom": "2011-09",
+    "periodTo": "2011-10",
+    "role": "Специалист отдела АСУ",
+    "shortDescription": "Отдел автоматизированной системы управления при образовательном учреждении",
+    "skillCodenames": [
+      "CSharp",
+      "MSPowerPoint"
+    ]
+  }
+]

@@ -1,5 +1,14 @@
 # Archives
 
+- [2026-07-03](2026-07-03)
+    - Improve `hero`.
+        - Improve the data: add the soft hyphen.
+    - Improve `dx-skills`.
+        - Improve the section.
+        - Improve the data.
+    - Improve `dx-activities`.
+        - Improve the section: allow to wrap `dx-activity-skills`.
+    - Improve `::selection`.
 - [2026-06-07](2026-06-07)
     - Migrate to Angular@21.
     - Use `font-family: 'Tektur', sans-serif`.

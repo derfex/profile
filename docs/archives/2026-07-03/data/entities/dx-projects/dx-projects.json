@@ -1,0 +1,44 @@
+[
+  {
+    "codename": "PetShop",
+    "name": "Pet shop",
+    "resultURL": "https://derfex.github.io/elaboration/apps/pet-shop/browser",
+    "sourceURL": "https://github.com/derfex/elaboration/tree/master/apps/pet-shop"
+  },
+  {
+    "codename": "PhilistineCalculations",
+    "name": "Philistine calculations",
+    "resultURL": "https://derfex.github.io/profile/portfolio/apps/philistine-calculations",
+    "sourceURL": "https://github.com/derfex/elaboration/tree/master/apps/philistine-calculations-fe"
+  },
+  {
+    "codename": "VehiclesRegistry",
+    "name": "Vehicles registry",
+    "resultURL": "https://derfex.github.io/profile/portfolio/apps/vehicles-registry",
+    "sourceURL": "https://github.com/derfex/elaboration/tree/master/apps/vehicles-registry-fe"
+  },
+  {
+    "codename": "TicTacToe",
+    "name": "Tic-Tac-Toe",
+    "resultURL": "https://derfex.github.io/pure-tasks/tic-tac-toe",
+    "sourceURL": "https://github.com/derfex/pure-tasks/tree/master/tic-tac-toe"
+  },
+  {
+    "codename": "checkIfTextsAreAnagrams",
+    "name": "Anagrams",
+    "resultURL": "https://derfex.github.io/pure-tasks/check-if-texts-are-anagrams",
+    "sourceURL": "https://github.com/derfex/pure-tasks/tree/master/check-if-texts-are-anagrams"
+  },
+  {
+    "codename": "BinarySearch",
+    "name": "Binary search",
+    "resultURL": "https://derfex.github.io/pure-tasks/binary-search",
+    "sourceURL": "https://github.com/derfex/pure-tasks/tree/master/binary-search"
+  },
+  {
+    "codename": "SVGAndTransitions",
+    "name": "SVG & transitions",
+    "resultURL": "https://derfex.github.io/pure-tasks/svg-chart",
+    "sourceURL": "https://github.com/derfex/pure-tasks/tree/master/svg-chart"
+  }
+]
