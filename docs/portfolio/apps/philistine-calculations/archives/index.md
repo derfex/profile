@@ -7,6 +7,7 @@
   - Improve “Accruals on bank deposits”.
     - Set `rate = 13`.
   - Use `vue@3.5.44`.
+  - Try: 4.
 
 - [2026-05-18](./2026-05-18)
   - Improve “Price comparison”.
