@@ -1,1 +1,1 @@
-import{a as e,g as t,s as n,t as r}from"./_plugin-vue_export-helper-D-876HL4.js";var i={},a={class:`app-about`};function o(r,i){return t(),n(`div`,a,[...i[0]||=[e(`h2`,null,`This is an about page`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-52fd0961`]]);export{s as default};
+import{a as e,g as t,s as n,t as r}from"./vue__plugin-vue_export-helper-D-876HL4.js";var i={},a={class:`app-about`};function o(r,i){return t(),n(`div`,a,[...i[0]||=[e(`h2`,null,`This is an about page`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-52fd0961`]]);export{s as default};
