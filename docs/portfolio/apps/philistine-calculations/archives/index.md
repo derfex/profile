@@ -3,11 +3,15 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-11-16](./2026-11-16)
+  - Create “Price comparison: single input”.
+  - Improve the UI kit.
+  - Publish as PWA.
+
 - [2026-10-30](./2026-10-30)
   - Improve “Accruals on bank deposits”.
     - Set `rate = 13`.
   - Use `vue@3.5.44`.
-  - Try: 5.
 
 - [2026-05-18](./2026-05-18)
   - Improve “Price comparison”.
