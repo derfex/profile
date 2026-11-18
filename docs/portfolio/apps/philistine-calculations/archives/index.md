@@ -6,7 +6,7 @@
 - [2026-11-16](./2026-11-16)
   - Create “Price comparison: single input”.
   - Improve the UI kit.
-  - Publish as PWA.
+  - Publish as Progressive Web Application (PWA).
 
 - [2026-10-30](./2026-10-30)
   - Improve “Accruals on bank deposits”.
