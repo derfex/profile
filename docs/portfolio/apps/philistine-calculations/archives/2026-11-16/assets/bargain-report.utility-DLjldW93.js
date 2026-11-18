@@ -1,0 +1,1 @@
+function e(e,t){return e/t}function t(e,t){return{kind:`commodity`,report:e,sequentialNumber:t}}function n(e,t){return{kind:`rangeError`,report:e,sequentialNumber:t}}function r(e,t){return{kind:`syntaxError`,report:e,sequentialNumber:t}}export{r as i,t as n,n as r,e as t};

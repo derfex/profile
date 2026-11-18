@@ -1,1 +1,0 @@
-function e(e,t){return e/t}function t(e){return e.kind===`commodity`}export{t as n,e as t};
