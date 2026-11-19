@@ -1,0 +1,1 @@
+function e(e,t,n){let r=e>=0?``:`–`,i=Math.abs(e),a=t+n,o=a===0?``:`.`,s=10**a,c=(``+Math.round(i*s)).padStart(1+a,`0`),l=c.length-a,u=c.substring(0,l),d=c.length-n,f=c.substring(l,d),p=c.substring(d);return{essential:`${r}${u}${o}${f}`,minor:p}}export{e as t};
