@@ -3,6 +3,9 @@
 > [!TIP]
 > [Philistine calculations: public version](..).
 
+- [2026-11-19](./2026-11-16)
+  - pragmatic.
+
 - [2026-11-16](./2026-11-16)
   - Create “Price comparison: single input”.
   - Improve the UI kit.
