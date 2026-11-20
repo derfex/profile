@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/profile/portfolio/apps/philistine-calculations/archives/2026-11-16/sw.js', { scope: '/profile/portfolio/apps/philistine-calculations/archives/2026-11-16/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/profile/portfolio/apps/pragmatic-calculations/archives/2026-11-16/sw.js', { scope: '/profile/portfolio/apps/pragmatic-calculations/archives/2026-11-16/' })})}
