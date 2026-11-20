@@ -34,7 +34,7 @@ Angular 20, Angular Material, Nx, ESLint, Prettier.
 
 ### Pragmatic calculations
 
-Calculators that I use in my everyday life.
+Calculators that I use in my everyday life. As Progressive Web Application (PWA).
 
 - [deployed application][pragmatic-calculations-deployed]
 - [source code][pragmatic-calculations-source]
@@ -70,7 +70,7 @@ HTML, CSS, JS.
 
 ---
 
-*Actualized: 2026-06-08*
+*Actualized: 2026-11-20*
 
 ---
 
