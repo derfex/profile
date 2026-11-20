@@ -36,12 +36,12 @@ Angular 20, Angular Material, Nx, ESLint, Prettier.
 
 Прагматичные калькуляторы, которыми пользуюсь в повседневной жизни.
 
-- [развёрнутое приложение][philistine-calculations-deployed]
-- [исходный код][philistine-calculations-source]
+- [развёрнутое приложение][pragmatic-calculations-deployed]
+- [исходный код][pragmatic-calculations-source]
 
 Технологии:  
 Vue 3 (composition API), `vue-router`, SASS, Nx, ESLint, Prettier.  
-[Изучить подробности (en)][philistine-calculations-technologies].
+[Изучить подробности (en)][pragmatic-calculations-technologies].
 
 ### Vehicles registry / *Реестр транспорта*
 
@@ -86,9 +86,9 @@ HTML, CSS, JS.
 [pet-shop-deployed]: https://derfex.github.io/elaboration/apps/pet-shop/browser
 [pet-shop-source]: https://github.com/derfex/elaboration/tree/master/apps/pet-shop
 [pet-shop-technologies]: https://github.com/derfex/elaboration/blob/master/apps/pet-shop/documentation/technologies.md
-[philistine-calculations-deployed]: https://derfex.github.io/profile/portfolio/apps/philistine-calculations
-[philistine-calculations-source]: https://github.com/derfex/elaboration/tree/master/apps/philistine-calculations-fe
-[philistine-calculations-technologies]: https://github.com/derfex/elaboration/blob/master/apps/philistine-calculations-fe/documentation/technologies.md
+[pragmatic-calculations-deployed]: https://derfex.github.io/profile/portfolio/apps/pragmatic-calculations
+[pragmatic-calculations-source]: https://github.com/derfex/elaboration/tree/master/apps/pragmatic-calculations-fe
+[pragmatic-calculations-technologies]: https://github.com/derfex/elaboration/blob/master/apps/pragmatic-calculations-fe/documentation/technologies.md
 [vehicles-registry-deployed]: https://derfex.github.io/profile/portfolio/apps/vehicles-registry
 [vehicles-registry-source]: https://github.com/derfex/elaboration/tree/master/apps/vehicles-registry-fe
 [vehicles-registry-technologies]: https://github.com/derfex/elaboration/blob/master/apps/vehicles-registry-fe/documentation/technologies.md

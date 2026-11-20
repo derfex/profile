@@ -36,12 +36,12 @@ Angular 20, Angular Material, Nx, ESLint, Prettier.
 
 Calculators that I use in my everyday life.
 
-- [deployed application][philistine-calculations-deployed]
-- [source code][philistine-calculations-source]
+- [deployed application][pragmatic-calculations-deployed]
+- [source code][pragmatic-calculations-source]
 
 Technologies:  
 Vue 3 (composition API), `vue-router`, SASS, Nx, ESLint, Prettier.  
-[Explore the details][philistine-calculations-technologies].
+[Explore the details][pragmatic-calculations-technologies].
 
 ### Vehicles registry
 
@@ -86,9 +86,9 @@ by [`derfex`][derfex-profile-deployed] | 2019 – 2026
 [pet-shop-deployed]: https://derfex.github.io/elaboration/apps/pet-shop/browser
 [pet-shop-source]: https://github.com/derfex/elaboration/tree/master/apps/pet-shop
 [pet-shop-technologies]: https://github.com/derfex/elaboration/blob/master/apps/pet-shop/documentation/technologies.md
-[philistine-calculations-deployed]: https://derfex.github.io/profile/portfolio/apps/philistine-calculations
-[philistine-calculations-source]: https://github.com/derfex/elaboration/tree/master/apps/philistine-calculations-fe
-[philistine-calculations-technologies]: https://github.com/derfex/elaboration/blob/master/apps/philistine-calculations-fe/documentation/technologies.md
+[pragmatic-calculations-deployed]: https://derfex.github.io/profile/portfolio/apps/pragmatic-calculations
+[pragmatic-calculations-source]: https://github.com/derfex/elaboration/tree/master/apps/pragmatic-calculations-fe
+[pragmatic-calculations-technologies]: https://github.com/derfex/elaboration/blob/master/apps/pragmatic-calculations-fe/documentation/technologies.md
 [vehicles-registry-deployed]: https://derfex.github.io/profile/portfolio/apps/vehicles-registry
 [vehicles-registry-source]: https://github.com/derfex/elaboration/tree/master/apps/vehicles-registry-fe
 [vehicles-registry-technologies]: https://github.com/derfex/elaboration/blob/master/apps/vehicles-registry-fe/documentation/technologies.md
