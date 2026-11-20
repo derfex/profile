@@ -3,8 +3,10 @@
 > [!TIP]
 > [Pragmatic calculations: public version](..).
 
-- [2026-11-19](./2026-11-16)
-  - pragmatic.
+- [2026-11-19](./2026-11-19)
+  - Display the range errors.
+  - Rebranding.
+  - Add the icon.
 
 - [2026-11-16](./2026-11-16)
   - Create “Price comparison: single input”.
