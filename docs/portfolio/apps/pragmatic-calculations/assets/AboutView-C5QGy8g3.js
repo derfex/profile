@@ -1,0 +1,1 @@
+import{c as e,o as t,p as n,t as r}from"./index-Bbzl_4wA.js";var i={},a={class:`app-about`};function o(r,i){return n(),e(`div`,a,[...i[0]||=[t(`h2`,null,`This is an about page`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-52fd0961`]]);export{s as default};
