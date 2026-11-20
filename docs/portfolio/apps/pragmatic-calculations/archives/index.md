@@ -3,6 +3,10 @@
 > [!TIP]
 > [Pragmatic calculations: public version](..).
 
+- [2026-11-20](./2026-11-20)
+  - Use `localStorage`.
+  - Add “Reset” button.
+
 - [2026-11-19](./2026-11-19)
   - Display the range errors.
   - Rebranding.
