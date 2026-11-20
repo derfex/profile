@@ -32,7 +32,7 @@ Technologies:
 Angular 20, Angular Material, Nx, ESLint, Prettier.  
 [Explore the details][pet-shop-technologies].
 
-### Philistine calculations
+### Pragmatic calculations
 
 Calculators that I use in my everyday life.
 

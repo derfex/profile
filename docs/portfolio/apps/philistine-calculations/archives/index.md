@@ -1,7 +1,7 @@
 # Archives
 
 > [!TIP]
-> [Philistine calculations: public version](..).
+> [Pragmatic calculations: public version](..).
 
 - [2026-11-19](./2026-11-16)
   - pragmatic.

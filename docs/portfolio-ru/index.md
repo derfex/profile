@@ -32,9 +32,9 @@ Angular 21, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.
 Angular 20, Angular Material, Nx, ESLint, Prettier.  
 [Изучить подробности (en)][pet-shop-technologies].
 
-### Philistine calculations / *Обывательские расчёты*
+### Pragmatic calculations / *Прагматичные расчёты*
 
-Обывательские калькуляторы, которыми пользуюсь в повседневной жизни.
+Прагматичные калькуляторы, которыми пользуюсь в повседневной жизни.
 
 - [развёрнутое приложение][philistine-calculations-deployed]
 - [исходный код][philistine-calculations-source]
