@@ -5,6 +5,9 @@ description: "Исследовать проекты, реализованные 
 
 # Портфолио `derfex`
 
+> [!TIP]
+> [English version][EnglishVersion].
+
 ## TypeScript
 
 Основной репозиторий TypeScript проектов: [elaboration][elaboration].
@@ -77,6 +80,8 @@ HTML, CSS, JS.
 Бережно изготовлено с 🧠  
 [`derfex`][derfex-profile-deployed] | 2019 — 2026
 
+
+[EnglishVersion]: ../portfolio
 
 [derfex-profile-deployed]: https://derfex.github.io/profile
 [derfex-profile-source]: https://github.com/derfex/elaboration/tree/master/apps/derfex-profile

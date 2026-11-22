@@ -5,6 +5,9 @@ description: "Investigate projects implemented by derfex."
 
 # `derfex`'s portfolio
 
+> [!TIP]
+> [Russian version (ru: версия на русском языке)][RussianVersion].
+
 ## TypeScript
 
 Main repository of TypeScript projects: [elaboration][elaboration].
@@ -77,6 +80,8 @@ HTML, CSS, JS.
 Carefully crafted with 🧠  
 by [`derfex`][derfex-profile-deployed] | 2019 – 2026
 
+
+[RussianVersion]: ../portfolio-ru
 
 [derfex-profile-deployed]: https://derfex.github.io/profile
 [derfex-profile-source]: https://github.com/derfex/elaboration/tree/master/apps/derfex-profile
