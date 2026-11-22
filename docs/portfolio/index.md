@@ -21,7 +21,7 @@ A thoughtfully handcrafted customizable web-page showcasing my skills and experi
 - [source code][derfex-profile-source]
 
 Technologies:  
-Angular 21, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.  
+Angular 22, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.  
 [Explore the details][derfex-profile-technologies].
 
 ### Pet shop
@@ -73,7 +73,7 @@ HTML, CSS, JS.
 
 ---
 
-*Actualized: 2026-11-20*
+*Actualized: 2026-11-22*
 
 ---
 

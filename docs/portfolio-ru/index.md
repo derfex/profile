@@ -21,7 +21,7 @@ description: "Исследовать проекты, реализованные 
 - [исходный код][derfex-profile-source]
 
 Технологии:  
-Angular 21, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.  
+Angular 22, RxJS, Web API, SASS, SVG, Nx, ESLint, Prettier.  
 [Изучить подробности (en)][derfex-profile-technologies].
 
 ### Pet shop / *Зоомагазин*
@@ -73,7 +73,7 @@ HTML, CSS, JS.
 
 ---
 
-*Актуализировано: 2026-11-20*
+*Актуализировано: 2026-11-22*
 
 ---
 
